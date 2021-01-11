@@ -15,4 +15,79 @@
     <shelfmark>BA I, 673</shelfmark>
     <fileName>sturm</fileName>
   </metadata>
+  <item>
+    <id>sturm0</id>
+    <pageCat>137r</pageCat>
+    <imageCat>275</imageCat>
+    <numberCat>1</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Novus Atlas das ist Weldbeschreibung Amsterdam 1647 in 4 Bänden</titleCat>
+    <titleBib>Novus Atlas, Das ist/ Weltbeschreibung / Mit schönen newen außführlichen Land-Taffeln in Kupffer gestochen/ und an den Tag gegeben Durch Guil. und Johannem Blaeu</titleBib>
+    <titleNormalized>Novus Atlas</titleNormalized>
+    <persons>
+      <person>
+        <persName>Blaeu, Willem Janszoon</persName>
+        <gnd>118658972</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>apd</beacon>
+          <beacon>wkp</beacon>
+          <beacon>db</beacon>
+          <beacon>hbio</beacon>
+          <beacon>gspd</beacon>
+          <beacon>humbdig</beacon>
+          <beacon>dpi</beacon>
+          <beacon>gpa</beacon>
+          <beacon>albw</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+      <person>
+        <persName>Blaeu, Joan</persName>
+        <gnd>119054604</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>db</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>gpa</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Amsterdam</placeName>
+        <getty>7006952</getty>
+        <geoData>
+          <lat>52.35</lat>
+          <long>4.9167</long>
+        </geoData>
+      </place>
+    </places>
+    <year>1647-1653</year>
+    <format>2°</format>
+    <subjects>
+      <subject>Geographie</subject>
+    </subjects>
+    <genres>
+      <genre>Atlas</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>ger</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD17</systemManifestation>
+    </manifestation>
+    <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;Mehrbändiges Werk, VD17-Nummern der Hauptaufnahme: VD17 23:295444R oder VD17 14:689921E</comment>
+    <copiesHAB>
+      <copyHAB>A: 1.2.2 Geogr. 2° (1)</copyHAB>
+    </copiesHAB>
+  </item>
 </collection>
