@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <metadata>
+    <heading>Bibliothek von Leonhard Christoph Sturm</heading>
+    <owner>Sturm, Leonhard Christoph</owner>
+    <ownerGND>117364177</ownerGND>
+    <description>Die Bücher und wissenschaftlichen Instrumente aus dem Besitz von Leonhard Christoph Sturm (1669–1719) wurden nach dessen Tod von Ludwig Rudolph von Braunschweig-Lüneburg (1671–1735), seinerzeit Fürst von Blankenburg im Harz und Dienstherr Sturms, übernommen und in die eigene Bibliothek integriert. Aus diesem Anlass entstand das 20 Blatt und 434 Bücherlose (ca. 500 Einzeltitel) umfassende handschriftliche Inventar. Zusammen mit der fürstlichen Bibliothek gelangten Sturms Bücher und Instrumente ab 1752/53 von Blankenburg nach Wolfenbüttel in die herzogliche Bibliothek. Hier verliert sich ihre Spur, da bislang keine entsprechenden Provenienzen im Bestand der HAB nachgewiesen wurden.</description>
+    <geoBrowserStorageID>804678</geoBrowserStorageID>
+    <creatorReconstruction>Jörn Münkner, Katrin Schmidt</creatorReconstruction>
+    <yearReconstruction>2020</yearReconstruction>
+    <base>http://diglib.hab.de/mss/ba-1-673/start.htm?image=</base>
+    <title>Catalogus librorum a quondam doctissimo nunc vero pie defuncto domino Sturmio Consiliario et Mathematico praestantissimo secundum ordinem quem ipse beatus vir dum viveret elegit, conscriptus</title>
+    <year>1719</year>
+    <institution>Herzog August Bibliothek Wolfenbüttel</institution>
+    <shelfmark>BA I, 673</shelfmark>
+    <fileName>sturm</fileName>
+  </metadata>
+<collection>
