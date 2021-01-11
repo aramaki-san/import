@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <metadata>
+    <heading>Bibliothek von Leonhard Christoph Sturm</heading>
+    <owner>Sturm, Leonhard Christoph</owner>
+    <ownerGND>117364177</ownerGND>
+    <description>Die Bücher und wissenschaftlichen Instrumente aus dem Besitz von Leonhard Christoph Sturm (1669–1719) wurden nach dessen Tod von Ludwig Rudolph von Braunschweig-Lüneburg (1671–1735), seinerzeit Fürst von Blankenburg im Harz und Dienstherr Sturms, übernommen und in die eigene Bibliothek integriert. Aus diesem Anlass entstand das 20 Blatt und 434 Bücherlose (ca. 500 Einzeltitel) umfassende handschriftliche Inventar. Zusammen mit der fürstlichen Bibliothek gelangten Sturms Bücher und Instrumente ab 1752/53 von Blankenburg nach Wolfenbüttel in die herzogliche Bibliothek. Hier verliert sich ihre Spur, da bislang keine entsprechenden Provenienzen im Bestand der HAB nachgewiesen wurden.</description>
+    <geoBrowserStorageID>804678</geoBrowserStorageID>
+    <creatorReconstruction>Jörn Münkner, Katrin Schmidt</creatorReconstruction>
+    <yearReconstruction>2020</yearReconstruction>
+    <base>http://diglib.hab.de/mss/ba-1-673/start.htm?image=</base>
+    <title>Catalogus librorum a quondam doctissimo nunc vero pie defuncto domino Sturmio Consiliario et Mathematico praestantissimo secundum ordinem quem ipse beatus vir dum viveret elegit, conscriptus</title>
+    <year>1719</year>
+    <institution>Herzog August Bibliothek Wolfenbüttel</institution>
+    <shelfmark>BA I, 673</shelfmark>
+    <fileName>sturm</fileName>
+  </metadata>
+  <item>
+    <id>sturm0</id>
+    <pageCat>137r</pageCat>
+    <imageCat>275</imageCat>
+    <numberCat>1</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Novus Atlas das ist Weldbeschreibung Amsterdam 1647 in 4 Bänden</titleCat>
+    <titleBib>Novus Atlas, Das ist/ Weltbeschreibung / Mit schönen newen außführlichen Land-Taffeln in Kupffer gestochen/ und an den Tag gegeben Durch Guil. und Johannem Blaeu</titleBib>
+    <titleNormalized>Novus Atlas</titleNormalized>
+    <persons>
+      <person>
+        <persName>Blaeu, Willem Janszoon</persName>
+        <gnd>118658972</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>apd</beacon>
+          <beacon>wkp</beacon>
+          <beacon>db</beacon>
+          <beacon>hbio</beacon>
+          <beacon>gspd</beacon>
+          <beacon>humbdig</beacon>
+          <beacon>dpi</beacon>
+          <beacon>gpa</beacon>
+          <beacon>albw</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+      <person>
+        <persName>Blaeu, Joan</persName>
+        <gnd>119054604</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>db</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>gpa</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Amsterdam</placeName>
+        <getty>7006952</getty>
+        <geoData>
+          <lat>52.35</lat>
+          <long>4.9167</long>
+        </geoData>
+      </place>
+    </places>
+    <year>1647-1653</year>
+    <format>2°</format>
+    <subjects>
+      <subject>Geographie</subject>
+    </subjects>
+    <genres>
+      <genre>Atlas</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>ger</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD17</systemManifestation>
+    </manifestation>
+    <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;Mehrbändiges Werk, VD17-Nummern der Hauptaufnahme: VD17 23:295444R oder VD17 14:689921E</comment>
+    <copiesHAB>
+      <copyHAB>A: 1.2.2 Geogr. 2° (1)</copyHAB>
+    </copiesHAB>
+  </item>
+  <item>
+    <id>sturm1</id>
+    <pageCat>137r</pageCat>
+    <imageCat>275</imageCat>
+    <numberCat>2</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Atlas Nouveau par le Sanson a Paris 1696.</titleCat>
+    <titleBib>Atlas Nouveav, Contenant Toutes Les Parties Du Monde, ou Sont exactement Remarqués Les Empires, Monarchies, Royaumes, Estats, Republiques &amp; Peuples qui sy trouuent á present / Par Le S.r Sanson Geographe ordinaire du Roy Presenté A Monseig[n]eur Le Dauphin Par ... Hubert Iaillot Geographe du Roy</titleBib>
+    <titleNormalized>Atlas nouveau</titleNormalized>
+    <persons>
+      <person>
+        <persName>Sanson, Nicolas</persName>
+        <gnd>12360978X</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>apd</beacon>
+          <beacon>wkp</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+        </beacon>
+      </person>
+      <person>
+        <persName>Jaillot, Alexis Hubert</persName>
+        <gnd>12900085X</gnd>
+        <role>contributor</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>dpi</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Paris</placeName>
+        <getty>7008038</getty>
+        <geoData>
+          <lat>48.8667</lat>
+          <long>2.3333</long>
+        </geoData>
+      </place>
+      <place>
+        <placeName>Amsterdam</placeName>
+        <getty>7006952</getty>
+        <geoData>
+          <lat>52.35</lat>
+          <long>4.9167</long>
+        </geoData>
+      </place>
+    </places>
+    <year>1696</year>
+    <format>2°</format>
+    <subjects>
+      <subject>Geographie</subject>
+    </subjects>
+    <genres>
+      <genre>Atlas</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>fre</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>K10plus</systemManifestation>
+      <idManifestation>230625754</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
+    <copiesHAB>
+      <copyHAB>M: Cb gr.-2° 65:1</copyHAB>
+      <copyHAB>M: Cb gr.-2° 65:2</copyHAB>
+    </copiesHAB>
+  </item>
+  <collection>
