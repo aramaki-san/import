@@ -1,7 +1,7 @@
 {
         
         "collection" : {
-        "item" : {
+        "item1" : {
                 
         "id" : "sturm0",
         "pageCat" : "137r",
@@ -13,7 +13,7 @@
         "titleBib" : "Novus Atlas, Das ist/ Weltbeschreibung / Mit schönen newen außführlichen Land-Taffeln in Kupffer gestochen/ und an den Tag gegeben Durch Guil. und Johannem Blaeu",
         "titleNormalized" : "Novus Atlas"
     },
-        "item" : {
+        "item2" : {
                 
         "id" : "sturm1",
         "pageCat" : "137r",
