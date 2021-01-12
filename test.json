@@ -1,7 +1,7 @@
 {
         
-        "collection" : {
-        "item1" : {
+        "collection" : [
+        "item" : {
                 
         "id" : "sturm0",
         "pageCat" : "137r",
@@ -13,7 +13,7 @@
         "titleBib" : "Novus Atlas, Das ist/ Weltbeschreibung / Mit schönen newen außführlichen Land-Taffeln in Kupffer gestochen/ und an den Tag gegeben Durch Guil. und Johannem Blaeu",
         "titleNormalized" : "Novus Atlas"
     },
-        "item2" : {
+        "item" : {
                 
         "id" : "sturm1",
         "pageCat" : "137r",
@@ -25,5 +25,5 @@
         "titleBib" : "Atlas Nouveav, Contenant Toutes Les Parties Du Monde, ou Sont exactement Remarqués Les Empires, Monarchies, Royaumes, Estats, Republiques &amp; Peuples qui sy trouuent á present / Par Le S.r Sanson Geographe ordinaire du Roy Presenté A Monseig[n]eur Le Dauphin Par ... Hubert Iaillot Geographe du Roy",
         "titleNormalized" : "Atlas nouveau"
     }
-    }}
+    ]}
     
