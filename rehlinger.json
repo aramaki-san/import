@@ -1,0 +1,3306 @@
+{
+    "collection": {
+        "metadata": {
+            "owner": "Rehlinger, Carl Wolfgang",
+            "ownerGND": 1055708286,
+            "fileName": "rehlinger",
+            "base": "http://diglib.hab.de/drucke/bc-kapsel-19-7s/start.htm?image=",
+            "heading": "Bibliothek Carl Wolfgang Rehlinger",
+            "title": "Index Librorvm: Qvos Nobilis Et Ornatissimvs Vir Carolvs VVolfgangvs Relingervs synceri Euangelij ministrorum, Augustæ, vsui liberali sumptu comparauit, ijsq[ue] in omne æuum d.d. secundum altitudinem exemplarium dispositus",
+            "year": 1575,
+            "institution": "HAB Wolfenbüttel",
+            "shelfmark": "M: Bc Kapsel 19 (7)",
+            "description": "Die private Büchersammlung ist auf einem plakatförmigen Einblattdruck verzeichnet, bei dem es sich um einen der ältesten überlieferten gedruckten Kataloge privaten bzw. halböffentlichen Buchbesitzes handelt. Präsentiert wird einen Bestand von 70 Büchern in 55 Bänden. Diese schenkte der wohlhabende Augsburger Kaufmann Carl Wolfgang Rehlinger (1534\u20131588) 1575 den evangelischen Predigern in Augsburg. Der Patrizier Rehlinger wählte für seine Schenkung vor allem Bücher zur Geschichte aus, es finden sich Titel humanistischer Geschichtsschreiber sowie Werke gnesiolutherischer Historiographie um Matthias Flacius Illyricus. Die Erschließung und digitale Umsetzung erfolgte 2015 durch Dietrich Hakelberg, vgl. Ders., Die Bücherschenkung des Augsburger Patriziers Carl Wolfgang Rehlinger von 1575 und ihr gedruckter Katalog, in: Gutenberg-Jahrbuch 90 (2015), 216\u2013234.",
+            "geoBrowserStorageID": 267901
+        },
+        "item": [
+            {
+                "id": "rehlinger0",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 1,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Tomus Theatri Zuingeri.",
+                "titleBib": "THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||",
+                "persons": {
+                    "person": {
+                        "persName": "Zwinger, Theodor",
+                        "gnd": 118773313,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "gesa",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Froben, Ambrosius"},
+                "year": 1571,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "Z 755"
+                },
+                "bound": 1,
+                "comment": "Wahrscheinlich handelt es sich um die hier in drei Bänden vorliegende zweite Ausgabe VD 16 Z 755 (Basel: Hieronymus Froben, 1571)."
+            },
+            {
+                "id": "rehlinger1",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 2,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Tomus Theatri Zuingeri.",
+                "titleBib": "THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||",
+                "persons": {
+                    "person": {
+                        "persName": "Zwinger, Theodor",
+                        "gnd": 118773313,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "gesa",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Froben, Ambrosius"},
+                "year": 1571,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "Z 755"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger2",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 3,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Tomus Theatri Zuingeri.",
+                "titleBib": "THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||",
+                "persons": {
+                    "person": {
+                        "persName": "Zwinger, Theodor",
+                        "gnd": 118773313,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "gesa",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Froben, Ambrosius"},
+                "year": 1571,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "Z 755"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger3",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 4,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Iohannes [!] Bonfinius de rebus Vngaricis.",
+                "titleBib": "Rerum Ungaricaum decades tres.",
+                "persons": {
+                    "person": {
+                        "persName": "Bonfini, Antonio",
+                        "gnd": 104106123,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "db",
+                                "dbi",
+                                "blgs"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Editio princeps VD 16 B 6592 (Basel: Robert Winter, 1543) sowie VD 16 B 6593 mit der Variante B 6594 (Basel: Bartholomaeus Franck, Paul Queck, Johannes Oporinus Nachf. und Sigmund Feyerabend, 1568)."
+            },
+            {
+                "id": "rehlinger4",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 5,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "VVolfgangus Lazius de migrationibus gentium.",
+                "titleBib": "De gentium aliquot migrationibus.",
+                "persons": {
+                    "person": {
+                        "persName": "Lazius, Wolfgang",
+                        "gnd": 118726870,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "mav",
+                                "gesa",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Edito princeps VD 16 L 849 (Basel: Johann Oporinus, 1557) und VD 16 L 850 (Basel: Johannes Oporinus Nachf., 1572)."
+            },
+            {
+                "id": "rehlinger5",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 6,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Chronologia Mercatoris.",
+                "titleBib": "CHRONOLOGIA.|| HOC EST,|| TEMPORVM DE=||MONSTRATIO EXACTISSIMA, AB || INITIO MVNDI, VSQVE AD ANNVM DOMI-||NI M.D.LXVIII. EX ECLIPSIBVS ET OBSERVATIONIBVS ASTRONOMI=||cis omnium temporum, sacris quoq; Biblijs, et optimis quibusq; Scri=||ptoribus summa fide concinnata.|| AVCTORE || GERARDO MERCATORE,|| Illustriss.Ducis Iuliae, Cliuiae, Bergis, &amp;c.|| Cosmographo.||",
+                "persons": {
+                    "person": {
+                        "persName": "Kremer, Gerhard, der Ältere",
+                        "gnd": 119734273,
+                        "role": "author"
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Köln",
+                        "getty": 7004446,
+                        "geoData": {
+                            "lat": 50.9333,
+                            "long": 6.95
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Birckmann, Arnold (Erben)"},
+                "year": 1569,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "K 2335"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger6",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 7,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Nicephori Ecclesiastica Historia, &amp; tripartita historia.",
+                "titleBib": "Ecclesiasticae historiae libri decem et octo historia \u2026 Adiecimus quoque ad Nicephorum, Magni Aurelij Cassiodori tripartitam, quam vocant, historiam.",
+                "persons": {
+                    "person": {
+                        "persName": "Nicephorus Callistus, Xanthopulus",
+                        "gnd": "10095443X",
+                        "role": "author",
+                        "beacon": {"beacon": "wkp"}
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Paris",
+                        "getty": 7008038,
+                        "geoData": {
+                            "lat": 48.8667,
+                            "long": 2.3333
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen Pettegree /Walsby, French Books, 80658 (Paris: Guillaume Cavellat, 1562), 80659 (Paris: Gilles Gourbin, 1562) oder 80679 (Paris: Michael Sonnius, 1574)."
+            },
+            {
+                "id": "rehlinger7",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 8,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_0",
+                    "positionMisc": 1
+                },
+                "titleCat": "Herodotus,",
+                "titleBib": "Historiae.",
+                "persons": {
+                    "person": {
+                        "persName": "Herodotus",
+                        "gnd": 118549855,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk",
+                                "cmvw"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger8",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 8,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_0",
+                    "positionMisc": 2
+                },
+                "titleCat": "&amp; uitae Plutarchi.",
+                "titleBib": "Vitae parallelae.",
+                "persons": {
+                    "person": {
+                        "persName": "Plutarchus",
+                        "gnd": 118595237,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall",
+                                "fsh",
+                                "dpi",
+                                "vkk",
+                                "imslp"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger9",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 9,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Historiæ Bizant[inae] scrip[tores] { Iohan[nes] Zonoras [ ! ]. Nicetas Choniates. Nicephorus Gregoras. Laonicus Chalcocondyles.",
+                "titleBib": "Corpus historiae Byzantinae.",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Zonaras, Johannes",
+                            "gnd": 118773151,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "fabricius",
+                                    "sandrart",
+                                    "kall",
+                                    "dpi",
+                                    "vkk"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Laonicus, Chalcocondyles",
+                            "gnd": 118675478,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "blgs"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Nicephorus, Gregoras",
+                            "gnd": 118697463,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "blgs",
+                                    "kall"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Nicetas, Choniates",
+                            "gnd": 118675982,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "blgs"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Es ist aufgrund der Titelaufnahme wenig wahrscheinlich, dass es sich um einen Sammelband mit den griechisch-lateinischen Erstausgaben VD 16 J 811 (Basel: Johannes Oporinus, 1557), VD 16 N 1449 (Basel: Johannes Oporinus, 1557), VD 16 G 3005 mit enth. VD 16 C 2006 (Basel: Johannes Oporinus, 1562) gehandelt hat, der über 1600 Seiten umfasst hätte. Ausf. zu den Basler Erstausgaben, den griech. Handschriften und Wolfs Editionstätigkeit Griechischer Geist aus Basler Pressen (GG) 270 (Zonaras und Choniates) und GG 271 (Gregoras und Chalcocondyles). In Frage kommen vielmehr die drei lat. Nachdrucke Pettegree / Walsby, French Books, 63393 (Paris: Gulielmus Chaudiere, 1567) sowie VD 16 ZV 3895 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568) und VD 16 ZV 20485 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568\u201374). Enthalten sind hier die lat. Ausgaben der Weltchronik des Johannes Zonaras, die byzantinische Geschichte der Jahre 1117\u20131203 von Nicetas Choniates, die rhomäische Geschichte der Jahre 1204\u20131359 von Nicephorus Gregoras sowie die Türkengeschichte des Laonicus Chalcocondyles, hrsg. und übersetzt von Hieronymus Wolf."
+            },
+            {
+                "id": "rehlinger10",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 10,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Xenophon Graecolatinus.",
+                "titleBib": "Opera.",
+                "persons": {
+                    "person": {
+                        "persName": "Xenophon",
+                        "gnd": 118635808,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {
+                    "language": [
+                        "lat",
+                        "grc"
+                    ]
+                },
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Griechisch-lateinische Parallelausgabe."
+            },
+            {
+                "id": "rehlinger11",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 11,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Iohannes Auentini annales Boij.",
+                "titleBib": "ANNALIVM BOIORVM || LIBRI SEPTEM IO=||anne Auentino Au=||tore.|| ... Accessit ... || Index copiosus.||[Hrsg.v.(Hieronymus Zieglerus Ro=||tenburgensis ... ||)]",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Aventinus, Johannes",
+                            "gnd": "11850522X",
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "mav",
+                                    "gspd",
+                                    "kall",
+                                    "dpi"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Ziegler, Hieronymus",
+                            "gnd": 128679913,
+                            "role": "contributor",
+                            "beacon": {"beacon": "db"}
+                        }
+                    ]
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Ingolstadt",
+                        "getty": 7017035,
+                        "geoData": {
+                            "lat": 48.7667,
+                            "long": 11.4333
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Weißenhorn, Alexander"},
+                "year": 1554,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "T 2318"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger12",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 12,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Vitæ Cæsarum { Suetonij Tranquilli. Ælij Spartiani. Ælij Lampridij. Trebellij Pollionis. Herodiani. Pomponij Læti. Eutropij. Ammiani Marcellini. Dionis Caßij. Iulij Capitolini. Vulcatii Gallicani. F. Vopisci. Sexti Aurelij Victoris. Iohannis Baptistæ Egnatij. Velleij Paterculi.",
+                "titleBib": "VITAE CAESARVM || QVARVM SCRIPTORES HI || [Sp.1] C. Suetonius Tranquillus || Aelius Spartianus || Aelius Lampridius ||...[Sp.2] Dion Cassius || Iulius Capitolinus ||...Eutropij libri X. integritati pristinae redditi.|| Ammianus Marcellinus longe alius quàm antehac unquam.|| Annotationes D. Erasmi Rot. &amp; Baptistae Egnatij in uitas Caes.|| Accesserunt...Velleij Paterculi libri II ... || addito Indice copiosissimo.||",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Suetonius Tranquillus, Gaius",
+                            "gnd": 118619918,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "gspd",
+                                    "sandrart",
+                                    "kall",
+                                    "dpi"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Lampridius, Aelius",
+                            "gnd": 119353083,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "fabricius",
+                                    "sandrart"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Spartianus, Aelius",
+                            "gnd": 119353016,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "fabricius",
+                                    "sandrart"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Cassius, Dio",
+                            "gnd": 118525824,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "sandrart",
+                                    "kall"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Erasmus, Desiderius",
+                            "gnd": 118530666,
+                            "role": "contributor",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "hls",
+                                    "fabricius",
+                                    "mav",
+                                    "gspd",
+                                    "gesa",
+                                    "sandrart",
+                                    "kall",
+                                    "fsh",
+                                    "cors",
+                                    "dpi",
+                                    "vkk"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Egnazio, Giovanni Battista",
+                            "gnd": 100118720,
+                            "role": "contributor",
+                            "beacon": {
+                                "beacon": [
+                                    "dbi",
+                                    "fabricius",
+                                    "sandrart",
+                                    "kall"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Froben, Hieronymus"},
+                "year": 1546,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "E 3648"
+                },
+                "bound": 1,
+                "comment": "Anthologie römischer Autoren mit Kommentaren zu den Kaiserviten von Erasmus von Rotterdam und Giovanni Battista Egnazio."
+            },
+            {
+                "id": "rehlinger13",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 13,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_1",
+                    "positionMisc": 1
+                },
+                "titleCat": "Onuphrij Panuinij de fastis &amp; triumphis Rom[anorum] &amp;",
+                "titleBib": "Fasti et triumphi Rom. a Romulo rege vsque ad Carolum V Cæs. Aug. siue epitome regum, consulum, dictatorum, magistror. equitum, tribunorum militum consulari potestate, censorum, impp. &amp; aliorum magistratuum Roman. cum Orientalium tum Occidentalium, ex antiquitatum monumentis maxima cum fide ac diligentia desumpta. Onuphrio Panuinio Veronensi f. Augustiniano authore. Additæ sunt suis locis impp. et orientalium, et occidentalium uerissimæ icones, ex vetustissimis numismatis quàm fidelissimè delineatæ.Ex Musæo Iacobi Stradæ Mantuani, ciuis Roamni, antiquarij.",
+                "persons": {
+                    "person": {
+                        "persName": "Panvinio, Onofrio",
+                        "gnd": 119421488,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius",
+                                "sandrart",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Venedig",
+                        "getty": 7018159,
+                        "geoData": {
+                            "lat": 45.4386,
+                            "long": 12.3267
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Strada, Giacomo"},
+                "year": 1557,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "EDIT16",
+                    "idManifestation": 34276
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger14",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 13,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_1",
+                    "positionMisc": 2
+                },
+                "titleCat": "Giraldus de diis gentium.",
+                "titleBib": "De deis gentium.",
+                "persons": {
+                    "person": {
+                        "persName": "Giraldi, Giglio Gregorio",
+                        "gnd": 100350275,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Möglicherweise eine der Basler Ausgaben VD 16 G 2103 oder VD 16 G 2104."
+            },
+            {
+                "id": "rehlinger15",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 14,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Blondius [gestr.: i] Fl[avius] de Roma triumphante.",
+                "titleBib": "De Roma triumphante.",
+                "persons": {
+                    "person": {
+                        "persName": "Blondus, Flavius",
+                        "gnd": 118658867,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "trithemius",
+                                "fabricius",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger16",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 15,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Raphaël Volaterranus.",
+                "titleBib": "Commentariorum urbanorum octo et triginta libri.",
+                "persons": {
+                    "person": {
+                        "persName": "Maffei, Raffaele",
+                        "gnd": 100199399,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius",
+                                "sandrart",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger17",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 16,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Cuspinianus de uitis Caesarum.",
+                "titleBib": "De Caesaribus atque imperatoribus Romanis opus insigne.",
+                "persons": {
+                    "person": {
+                        "persName": "Cuspinianus, Johannes",
+                        "gnd": "11867756X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "blgs",
+                                "fabricius",
+                                "mav",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger18",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 17,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Strabonis geographia.",
+                "titleBib": "Geographicorum libri XVII.",
+                "persons": {
+                    "person": {
+                        "persName": "Strabo",
+                        "gnd": 118618806,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "ddb",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger19",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 18,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Centuria 13. Ecclesiastica.",
+                "titleBib": "Decimatertia Centuria || ECCLESIASTICAE || HISTORIAE, CONTINENS DE=||SCRIPTIONEM AMPLISSIMARVM RERVM IN || Regno Christi, quae Decimotertio post eius natiuitatem || seculo acciderunt ... || eodem ordine ... || ut superiores Centuriae ... || in || ciuitate Vuismaria,|| PER AVTORES CONTEXTA.|| Accessit ... || INDEX.||",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Flacius, Matthias",
+                            "gnd": 118533649,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "hls",
+                                    "blgs",
+                                    "saebi",
+                                    "fabricius",
+                                    "mav",
+                                    "gspd",
+                                    "gesa",
+                                    "kall",
+                                    "fsh",
+                                    "dpi",
+                                    "vkk"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Wigand, Johann",
+                            "gnd": 117383317,
+                            "role": "contributor",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "mav",
+                                    "cprm",
+                                    "gesa",
+                                    "kall",
+                                    "dpi"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Holthuter, Thomas",
+                            "gnd": 119713551,
+                            "role": "contributor"
+                        },
+                        {
+                            "persName": "Corvinus, Andreas",
+                            "gnd": 119646463,
+                            "role": "contributor",
+                            "beacon": {"beacon": "cprm"}
+                        }
+                    ]
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Oporinus, Johannes"},
+                "year": 1574,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "E 238"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger20",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 19,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Iohannis Hus &amp; Hieronymi Pragensis opera.",
+                "titleBib": "IOANNIS || Hus, et Hie=||RONYMI PRAGEN=||SIS CONFESSORVM CHRISTI || HISTORIA ET MO=||NVMENTA, PARTIM ANNIS SV/||PERIORIBVS PVBLICATA,PARTIM NVNC || demum in lucem prolata &amp; edita, cum scriptis &amp; testimonijs multo-||rum ... || (ALTERA PARS.|| ADDITAE SVNT NAR=||RATIONES DE CONDEMNATIONE IN/||IVSTA, ET INDIGNO SVPPLICIO IOANNIS || HVS, ET HIERONYMI PRAGENSIS, AB INCERTIS AVTHO=||ribus ... ||)",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Hus, Jan",
+                            "gnd": 118554948,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "hls",
+                                    "fabricius",
+                                    "gspd",
+                                    "kall",
+                                    "dpi",
+                                    "vkk",
+                                    "imslp"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Hieronymus, Pragensis, Camaldulensis",
+                            "gnd": 102511217,
+                            "role": "author",
+                            "beacon": {"beacon": "fabricius"}
+                        },
+                        {
+                            "persName": "vom Berg, Johann",
+                            "role": "author"
+                        }
+                    ]
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Nürnberg",
+                        "geoData": {
+                            "lat": 49.45421,
+                            "long": 11.07752
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Neuber, Ulrich"},
+                "year": 1558,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "H 6154"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger21",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 20,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_2",
+                    "positionMisc": 1
+                },
+                "titleCat": "Camerarij chronologia è Niceph[oro]",
+                "titleBib": "CHRONOLOGIA SE=||cundum Graecorum rationem || temporibus expositis, autore || NICEPHORO archiepiscopo Con-||stantinopolis:|| CONVERSA in sermonem Latinum de Graeco, &amp; explica-||ta à IOACHIMO CAMERARIO Pabeper/||gensi, nunc#́[que] primùm || edita.|| ADDITA EST Narratio eiusdem CAMERARII || de Synodo Nicaena, nunc denuò edita.|| ACCESSIT et noua enumeratio Oecumenicarum Syno-||dorum, indicatis temporibus et praeci-||puis negotijs illarum.||(EIUSDEM IOACHIMI || Camerarij || De Chronicis, seu certorum temporum in/||dicationibus, Libellus.|| ITEM,|| De sancto Spiritu, ex Disputatione quae ascribitur Ba/||silio Caesareae episcopo.||)",
+                "persons": {
+                    "person": {
+                        "persName": "Camerarius, Joachim",
+                        "gnd": 118518569,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "fabricius",
+                                "mav",
+                                "gspd",
+                                "cpl",
+                                "gesa",
+                                "kall",
+                                "fsh",
+                                "cors",
+                                "dpi",
+                                "vkk",
+                                "cmvw"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Oporinus, Johannes"},
+                "year": 1561,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "N 1446"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger22",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 20,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_2",
+                    "positionMisc": 2
+                },
+                "titleCat": "&amp; Bibliandri.",
+                "titleBib": "TEMPORVM A ̀|| condito mundo usque ad ulti||mam ipsius aetatem supputatio,|| partitioq́ue exactior.|| Vniuersae quidem historiae diuinae, ecclesiasticae || &amp; exterę Latinorum, Gręcorum, Aegyptiorum,|| Chaldaeorum, Germanorum &amp; aliarũ gentium || accommodata ... || Quã scribebat THEODORVS BIBLIANDER,|| ecclesię Tigurinę minister ... || Accessit ... || INDEX.||",
+                "persons": {
+                    "person": {
+                        "persName": "Bibliander, Theodor",
+                        "gnd": 116170638,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Kündig, Jakob"},
+                "year": 1558,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "B 5334"
+                },
+                "bound": 1,
+                "comment": "VD16 B 5334 oder Druckvariante VD16 ZV 28110"
+            },
+            {
+                "id": "rehlinger23",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 20,
+                "itemInVolume": 3,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_2",
+                    "positionMisc": 3
+                },
+                "titleCat": "&amp; Pantaleonis.",
+                "titleBib": "Chronographia ecclesiae Christi [?].",
+                "persons": {
+                    "person": {
+                        "persName": "Pantaleon, Heinrich",
+                        "gnd": 124439047,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Werk und Ausgabe lassen sich nicht genau bestimmen."
+            },
+            {
+                "id": "rehlinger24",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 21,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Anshelmi opera.",
+                "titleBib": "Opera.",
+                "persons": {
+                    "person": {
+                        "persName": "Anselmus, Cantuariensis",
+                        "gnd": 118503278,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger25",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 22,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Cosmographia Munsteri.",
+                "titleBib": "Cosmographia.",
+                "persons": {
+                    "person": {
+                        "persName": "Münster, Sebastian",
+                        "gnd": 118585517,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "rpbio",
+                                "mav",
+                                "jen",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger26",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 23,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Eusebij Pamphili opera.",
+                "titleBib": "Opera.",
+                "persons": {
+                    "person": {
+                        "persName": "Eusebius Caesariensis",
+                        "role": "author"
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger27",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 24,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_3",
+                    "positionMisc": 1
+                },
+                "titleCat": "Otto Frisingensis.",
+                "titleBib": "Rerum ab origine mundi ad ipsius usque tempora gestarum.",
+                "persons": {
+                    "person": {
+                        "persName": "Otto, Frisingensis",
+                        "gnd": 118590782,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Hrsg. von Johannes Cuspinianus. In Frage kommen die Editio princeps VD 16 O 1434 (Straßburg: Matthias Schürer, 1515) oder VD 16 O 1435 (Basel: Peter Perna, 1569)."
+            },
+            {
+                "id": "rehlinger28",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 24,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_3",
+                    "positionMisc": 2
+                },
+                "titleCat": "Abbas Vrspergensis.",
+                "titleBib": "Chronicon Urspergense.",
+                "persons": {
+                    "person": {
+                        "persName": "Burchardus, Urspergensis",
+                        "gnd": "11851749X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "gspd"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger29",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 24,
+                "itemInVolume": 3,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_3",
+                    "positionMisc": 3
+                },
+                "titleCat": "Tritehemius de monasterio Hirsaugiensi.",
+                "titleBib": "CHRONICON INSI/||gne Monasterij Hirsaugien/||sis, Ordinis S.Benedicti,|| PER || IOANNEM TRITEHEMIVM || ABBATEM SPANHEIMENSEM, VIRVM SVA || aetate doctiss. conscriptum, ac diu hactenus à multis || desideratum, nunc uerò primùm in || lucem editum.|| ... Accessit locuples rerum &amp; uerborum in to/||to Opere memorabilium || INDEX.||[Hrsg.v.(GVILIELMVS || RADENSIS ... ||)]",
+                "persons": {
+                    "person": {
+                        "persName": "Trithemius, Johannes",
+                        "gnd": 118642960,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "ddb",
+                                "db",
+                                "hls",
+                                "rpbio",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "kall",
+                                "fsh",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Kündig, Jakob"},
+                "year": 1559,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "T 1967"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger30",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 25,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Æneæ Syluij opera.",
+                "titleBib": "Opera.",
+                "persons": {
+                    "person": {
+                        "persName": "Aeneas Sylvius, Piccolomini",
+                        "gnd": 118594702,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "ddb",
+                                "db",
+                                "hls",
+                                "blgs",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "gesa",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Petri, Heinrich"},
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen VD 16 P 3093 (Basel: Heinrich Petri, 1551) oder VD 16 P 3094 (Basel: Heinrich Petri, 1571)."
+            },
+            {
+                "id": "rehlinger31",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 26,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Paul[us] Æmilius Veronensis de reb[us] gestis Francoru[m].",
+                "titleBib": "De rebus gestis Francorum libri X.",
+                "persons": {
+                    "person": {
+                        "persName": "Emili, Paolo",
+                        "gnd": 118896393,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "dbi",
+                                "fabricius",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen verschiedene Pariser Drucke (Pettegree / Walsby, French Books, 69117\u20139) sowie die Basler Ausgaben VD 16 E 1058, VD 16 ZV 4984 und VD 16 ZV 24996 (Basel: Sixtus Henricpetri, 1569)."
+            },
+            {
+                "id": "rehlinger32",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 27,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_4",
+                    "positionMisc": 1
+                },
+                "titleCat": "Cornelius Tacitus.",
+                "persons": {
+                    "person": {
+                        "persName": "Tacitus, Cornelius",
+                        "gnd": 118620452,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "hls",
+                                "gspd",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger33",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 27,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_4",
+                    "positionMisc": 2
+                },
+                "titleCat": "Dionisius Caßius.",
+                "titleBib": "DIONIS CASSII || Nicaei, Romanae historiae li-||bri (tot enim hodie extant) XXV.|| nimirum à XXXVI ad LXI.|| ... || Nunc primùm ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI è Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||",
+                "persons": {
+                    "person": {
+                        "persName": "Cassius, Dio",
+                        "gnd": 118525824,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Oporinus, Johannes"},
+                "year": 1558,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "D 1793"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger34",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 28,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Diodorus Siculus.",
+                "persons": {
+                    "person": {
+                        "persName": "Siculus, Diodorus",
+                        "role": "author"
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Werk und Ausgabe sind nicht bestimmbar."
+            },
+            {
+                "id": "rehlinger35",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 29,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_5",
+                    "positionMisc": 1
+                },
+                "titleCat": "Beatus Rhenanus de rebus Ger[manicis].",
+                "titleBib": "Rerum Germanicarum libri tres.",
+                "persons": {
+                    "person": {
+                        "persName": "Rhenanus, Beatus",
+                        "gnd": 118960563,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "mav",
+                                "gspd",
+                                "gesa",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Editio princeps VD 16 R 2064 (Basel: Johann Froben Erben, 1531) oder die zweite Auflage VD 16 R 2065 (Basel: Hieronymus Froben und Nicolaus Episcopius d. Ä., 1551)."
+            },
+            {
+                "id": "rehlinger36",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 29,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_5",
+                    "positionMisc": 2
+                },
+                "titleCat": "Ioh[annes] Turpinus de uita Caroli Magni et Rolandi. Rhegino abbas Prumiensis. Sigebertus Gemblacensis. Lambertus Schafnaburgensis.",
+                "titleBib": "GERMANICARVM RERVM || QVATVOR || CELEBRIORES VETVS=||TIORESQVE CHRONOGRAPHI, EARVM || DESCRIPTIONEM AB ORBE CONDITO VSQVE AD TEMPORA || Henrici IIII ... || deducen-||tee ... in lucem re-||uocati, &amp; longè emendatius quàm antea impressi,|| cum nouo Indice.|| ... ||",
+                "persons": {
+                    "person": [
+                        {
+                            "persName": "Turpinus, Remensis",
+                            "gnd": 118802992,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "trithemius",
+                                    "fabricius",
+                                    "sandrart"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Lambertus, Hersfeldensis",
+                            "gnd": "10095135X",
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "hbio",
+                                    "fabricius",
+                                    "gspd"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Regino, Prumiensis",
+                            "gnd": 118598996,
+                            "role": "author",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "rpbio",
+                                    "trithemius",
+                                    "fabricius",
+                                    "gspd",
+                                    "kall",
+                                    "dpi"
+                                ]
+                            }
+                        },
+                        {
+                            "persName": "Sigebertus, Gemblacensis",
+                            "gnd": 118614142,
+                            "role": "contributor",
+                            "beacon": {
+                                "beacon": [
+                                    "wkp",
+                                    "db",
+                                    "trithemius",
+                                    "fabricius"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Frankfurt/M.",
+                        "getty": 7005293,
+                        "geoData": {
+                            "lat": 50.1167,
+                            "long": 8.6833
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Rab, Georg d.Ä."},
+                "year": 1566,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "S 2277"
+                },
+                "bound": 1,
+                "comment": "Enth. Johannes Turpinus: Historia de vita Caroli Magni et Rolandi; Regino von Prüm: Annales; Sigebert von Gembloux: Chronographia; Lambert von Hersfeld: De rebus gestis Germanorum. Hrsg. von Simon Schardius."
+            },
+            {
+                "id": "rehlinger37",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 29,
+                "itemInVolume": 3,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_5",
+                    "positionMisc": 3
+                },
+                "titleCat": "Franc[isci] Irenici historiæ Germ[aniae] lib[ri] 12.",
+                "titleBib": "Germaniae exegeseos volumina duodecim.",
+                "persons": {
+                    "person": {
+                        "persName": "Irenicus, Franciscus",
+                        "gnd": 119193426,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "fabricius"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger38",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 30,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Supplementum chronicorum Bergomatis.",
+                "titleBib": "Supplementum supplementi chronicarum ab ipso mundi exordio vsque ad redemptionis nostrae annum MCCCCCX editum. Et nouissime recognitum. Et castigatum a venerando patre Iacobo Phillippo Bergomate Ordinis heremitarum. Additis per eundem auctorem quampluribus vtilissimis &amp; necessarijs additionibus. Necnon eleganti tabula nouiter excogitata quae omnia mirifice demonstrat.",
+                "persons": {
+                    "person": {
+                        "persName": "Forèsti, Giacomo Filippo",
+                        "gnd": "11909729X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "dbi",
+                                "trithemius",
+                                "fabricius"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Venedig",
+                        "getty": 7018159,
+                        "geoData": {
+                            "lat": 45.4386,
+                            "long": 12.3267
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Rusconi, Giorgio"},
+                "year": 1513,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "EDIT16",
+                    "idManifestation": 19467
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger39",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 31,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Hæreseologia.",
+                "titleBib": "HAERESEO||LOGIA,|| HOC EST,|| OPVS VETERVM || tam Graecorum quàm Latinorum || Theologorum,per quos omnes, quae per || Catholicam Christi Ecclesiam grassatae || sunt,haereses confutantur,&amp; summa omnia Theologiae capita quaestioneś#[que] ... || &amp; reliqui communes,quos tota The||ologia tractat,loci,explicantur.|| ... [Sp.I.]L. Caelius Lactantius Firmianus.|| Marius Victorinus.|| Proclus Episcop.Constantinopolitanus.|| ... || [Sp.II.] Beatus Fulgentius.|| Idacius Clarus.|| Timotheus Episcopus.|| ... ||",
+                "persons": {
+                    "person": {
+                        "persName": "Herold, Johannes",
+                        "gnd": "11854988X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "ddb",
+                                "db",
+                                "hls",
+                                "cors"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Petri, Heinrich"},
+                "year": 1556,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "H 2544"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger40",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 32,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_6",
+                    "positionMisc": 1
+                },
+                "titleCat": "Vitichindi Saxonica historia.",
+                "titleBib": "VVITICHINDI SAXO||NIS RERVM AB HENRICO ET OTTONE I IMPP. GE/||starum Libri III, unà cum alijs quibusdam raris &amp; antehac non || lectis diuersorum autorum historijs, ab Anno salutis || D.CCC. us#[que] ad praesentem aetatem ... || Huc accessit rerum scitu dignarum copiosus index.||",
+                "persons": {
+                    "person": {
+                        "persName": "Widukindus, Corbeiensis",
+                        "gnd": 118632337,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "wfg",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Herwagen, Johannes"},
+                "year": 1532,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "ZV 7827"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger41",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 32,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_6",
+                    "positionMisc": 2
+                },
+                "titleCat": "Eutropij Ro[mana] historia.",
+                "titleBib": "EVTROPII INSIGNE || VOLVMEN QVO ROMANA HISTORIA VNIVERSA || describitur, ex diuersorum authorũ monumentis collecta ... || Additae sunt || Graecorum Imperatorum uitae de rebus in Oriente &amp; Constantinopoli,|| Persia, Arabia#́[que] gestis ... || PAVLI Diaconi Aquileiensis De gestis Langobardorum Libri VI.||",
+                "persons": {
+                    "person": {
+                        "persName": "Landulfus, Sagax",
+                        "gnd": 100951465,
+                        "role": "author",
+                        "beacon": {"beacon": "fabricius"}
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Froben, Hieronymus"},
+                "year": 1532,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "L 242"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger42",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 33,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_7",
+                    "positionMisc": 1
+                },
+                "titleCat": "Onuphrij Pa[n]ui[ni] pont[ifices] Ro[mani].",
+                "titleBib": "Epitome pontificum Romanorum a s. Petro usque ad Paulum IIII Gestorum (videlicet) electionìsque singulorum, &amp; conclauium compendiaria narratio. Cardinalium item nomina, dignitatum tituli, insignia legationes, patria et obitus. Onuphrio Panuinio Veronensi f. augustiniano authore. Ex musaeo Iacobi Stradae Mantuani, ciuis Romani, antiquarij.",
+                "persons": {
+                    "person": {
+                        "persName": "Panvinio, Onofrio",
+                        "gnd": 119421488,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius",
+                                "sandrart",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Venedig",
+                        "getty": 7018159,
+                        "geoData": {
+                            "lat": 45.4386,
+                            "long": 12.3267
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Strada, Giacomo"},
+                "year": 1557,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "EDIT16",
+                    "idManifestation": 34274
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger43",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 33,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_7",
+                    "positionMisc": 2
+                },
+                "titleCat": "Ejusde[m] app[endix] fast[orum].",
+                "titleBib": "Onuphrii Panuinii Veronensis fratris eremitae Augustiniani Fastorum libri V a Romulo rege vsque ad imp. Caesarem Carolum V Austrium Augustum. Eiusdem in fastorum libros commentarii.",
+                "persons": {
+                    "person": {
+                        "persName": "Panvinio, Onofrio",
+                        "gnd": 119421488,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius",
+                                "sandrart",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Venedig",
+                        "getty": 7018159,
+                        "geoData": {
+                            "lat": 45.4386,
+                            "long": 12.3267
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Valgrisi, Vincenzo"},
+                "year": 1558,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "EDIT16",
+                    "idManifestation": 37871
+                },
+                "bound": 1,
+                "comment": "Eingebunden ist nur das [4] Bl., 72 S. umfassende enthaltene Werk mit eigenem Titelblatt von EDIT16 CNCE 37871 (Onofrio Panvinio: Fastorvm libri V a Romulo rege usque ad imp.Caesarem Carolum V Austrium Augustum. Venedig: Vincenzo Valgrisi, 1558. 2°)."
+            },
+            {
+                "id": "rehlinger44",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 33,
+                "itemInVolume": 3,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_7",
+                    "positionMisc": 3
+                },
+                "titleCat": "Chronicon pluriu[m].",
+                "titleBib": "Chronicon ecclesiasticum.",
+                "persons": {
+                    "person": {
+                        "persName": "Panvinio, Onofrio",
+                        "gnd": 119421488,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius",
+                                "sandrart",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger45",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 34,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_8",
+                    "positionMisc": 1
+                },
+                "titleCat": "Thucydides.",
+                "titleBib": "Historia belli Peloponnesiaci.",
+                "persons": {
+                    "person": {
+                        "persName": "Thukydides",
+                        "gnd": "11862234X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die von Laurentio Valla bearbeiteten Basler Ausgaben VD 16 T 1120 und VD 16 T 1121 (beide Basel: Heinrich Petri und Maternus Cholinus, 1564), aber auch die italienische Inkunabelausgabe GW M46964 (Treviso: Johannes Rubeus, 1483?)."
+            },
+            {
+                "id": "rehlinger46",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 34,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_8",
+                    "positionMisc": 2
+                },
+                "titleCat": "Dion[ysii] Alexan[dri] Ro[mana] histo[ria].",
+                "titleBib": "Antiquitates Romanae.",
+                "persons": {
+                    "person": {
+                        "persName": "Dionysius, Halicarnassensis",
+                        "gnd": 118525824,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen VD 16 D 1970 (Basel: Hieronymus Froben d. Ä. und Nicolaus Episcopius d. Ä., 1532), aber auch die beiden italienischen Inkunabelausgaben GW 8423 (Treviso: Bernardinus Celerius, 24. Februar 1480) und GW 8424 (Reggio Emilia: Franciscus de Mazalibus, 12. November 1498)."
+            },
+            {
+                "id": "rehlinger47",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 35,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_9",
+                    "positionMisc": 1
+                },
+                "titleCat": "Catalogus testiu[m] ueritatis Illyrici.",
+                "titleBib": "CATALOGVS TE/||stium ueritatis, qui ante nostram || aetatem Pontifici Romano, eiúsque || erroribus reclamarunt: iam denuò longè quàm || antea, &amp; emendatior &amp; au/||ctior editus.|| Opus ... || in quo ... || multi utiles libelli ... proferuntur ... || APPENDICI ... inserta est Vera Demon-||stratio, Quòd electio Praesulum et Episcoporum non ad Ecclesiasticos || solum, sed et ad Laicos ... pertineat ... || Cum Praefatione MATHIAE FLACII Illyrici ... || Acceßit et Rerum atq; uerborum toto Opere memorabilium || copiosus INDEX.|| ... ||",
+                "persons": {
+                    "person": {
+                        "persName": "Flacius, Matthias",
+                        "gnd": 118533649,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "hls",
+                                "blgs",
+                                "saebi",
+                                "fabricius",
+                                "mav",
+                                "gspd",
+                                "gesa",
+                                "kall",
+                                "fsh",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Straßburg",
+                        "getty": 7012346,
+                        "geoData": {
+                            "lat": 48.5833,
+                            "long": 7.75
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Messerschmidt, Paul"},
+                "year": 1562,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "F 1294"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger48",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 35,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_9",
+                    "positionMisc": 2
+                },
+                "titleCat": "Prodigia Lycost[henis].",
+                "titleBib": "PRODIGI||ORVM AC || OSTENTORVM || CHRONICON,|| Quae praeter naturae ordinem, motum,|| ET OPERATIONEM, ET IN SVPERIO-||ribus &amp; his inferioribus mundi regionibus, ab exordio mundi usque ad haec || nostra tempora, acciderunt ... || Partim ex probatis fide#́[que] || dignis authoribus Grecis, atque Latinis: partim etiam ex multorum || annorum propria obseruatione, summa fide, studio, ac se-||dulitate, adiectis etiam rerum omnium ueris ima-||ginibus, conscriptum per || CONRADVM LYCOSTHENEM || RVBEAQVENSEM.||",
+                "persons": {
+                    "person": {
+                        "persName": "Lycosthenes, Konrad",
+                        "gnd": 123403855,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "mav",
+                                "kall",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Petri, Heinrich"},
+                "year": 1557,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "W 4314"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger49",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 36,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_10",
+                    "positionMisc": 1
+                },
+                "titleCat": "Paul[i] Diacon[i] de reb[us] Longob[ardorum].",
+                "titleBib": "De origine et gestis regum Langobardorum libri VI.",
+                "persons": {
+                    "person": {
+                        "persName": "Paulus Diaconus",
+                        "gnd": 118789961,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "trithemius",
+                                "fabricius",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Paris",
+                        "getty": 7008038,
+                        "geoData": {
+                            "lat": 48.8667,
+                            "long": 2.3333
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Ascensius, Jodocus Badius"},
+                "year": 1514,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "bound": 1,
+                "comment": "Ausgabe bei Renouard, Imprimeurs II, S. 256"
+            },
+            {
+                "id": "rehlinger50",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 36,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_10",
+                    "positionMisc": 2
+                },
+                "titleCat": "Iorna[n]des de reb[us] Gothorum.",
+                "titleBib": "IORNAN||DES DE REBVS || GOTHORVM. PAV||LVS DIACONVS || FOROIVLIEN=||SIS DE GESTIS || LANGOBARDO=||RVM || [Hrsg.v.(CHVONRADI PEVTINGER ... || &amp; Ioannis Stabij ... ||)]",
+                "persons": {
+                    "person": {
+                        "persName": "Iordanes, Gotus",
+                        "gnd": 118891472,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "trithemius",
+                                "fabricius"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Augsburg",
+                        "getty": 7004324,
+                        "geoData": {
+                            "lat": 48.3667,
+                            "long": 10.8833
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Miller, Johann"},
+                "year": 1515,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "J 932"
+                },
+                "bound": 1,
+                "comment": "Herausgegeben von Conrad Peutinger und Johannes Stabius. Enth. auch Paulus Diaconus: De gestis Langobardorum (VD 16 P 1048)."
+            },
+            {
+                "id": "rehlinger51",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 36,
+                "itemInVolume": 3,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_10",
+                    "positionMisc": 3
+                },
+                "titleCat": "Annonij Monachi de reb[us] Franc[orum].",
+                "persons": {
+                    "person": {
+                        "persName": "Aimonus, Floriacensis",
+                        "gnd": 100937101,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "trithemius",
+                                "fabricius",
+                                "gspd"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Paris",
+                        "getty": 7008038,
+                        "geoData": {
+                            "lat": 48.8667,
+                            "long": 2.3333
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Ascensius, Jodocus Badius"},
+                "year": 1514,
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "bound": 1,
+                "comment": "Ausgabe bei Renouard, Imprimeurs II, S. 238"
+            },
+            {
+                "id": "rehlinger52",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 36,
+                "itemInVolume": 4,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_10",
+                    "positionMisc": 4
+                },
+                "titleCat": "Polybius Græcolatinus.",
+                "persons": {
+                    "person": {
+                        "persName": "Polybius",
+                        "gnd": 118595571,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "hls",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "2°",
+                "mediaType": "Book",
+                "languages": {
+                    "language": [
+                        "grc",
+                        "lat"
+                    ]
+                },
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Griechisch-lateinische Parallelausgabe, nicht näher zu bestimmen."
+            },
+            {
+                "id": "rehlinger53",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 37,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Æmilij Probi de uita excellentium Imperatorum.",
+                "titleBib": "Vitae excellentium imperatorum.",
+                "persons": {
+                    "person": {
+                        "persName": "Nepos, Cornelius",
+                        "gnd": 118747681,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "4°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Editio princeps GW M25944 (Venedig: Nicolas Jenson, 8. März 1471), VD 16 N 518 (Straßburg: Matthias Schürer, 1511), sowie die Pariser Ausgaben Pettegree / Walsby, French Books, Nr. 63339\u201340 (Pierre L\u2019Huillier, 1568 bzw. 1569) und Pettegree /Walsby, French Books, Nr. 63341 (Jean Bienné, 1568)."
+            },
+            {
+                "id": "rehlinger54",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 38,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Dictionarium historicum Caroli Stephani.",
+                "titleBib": "Dictionarium historicum ac poeticum.",
+                "persons": {
+                    "person": {
+                        "persName": "Estienne, Charles",
+                        "gnd": 121000109,
+                        "role": "author"
+                    }
+                },
+                "format": "4°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Editio princeps Pettegree / Walsby, French Books, Nr. 69931 (Paris: Charles Estienne, 1553; s. Antoine Renouard: Annales de l\u2019imprimerie des Estienne ou histoire de la famille des Estienne et ses éditions. Paris 1843, S. 104/5, Nr. 8.), sowie die Ausgaben GLN 15/16-2315 (Genf: François Perrin, 1566) und GLN 15/16-2345 ([Paris, Genf]: Jean Le Preux & Jean Petit, 1567)."
+            },
+            {
+                "id": "rehlinger55",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 39,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Iohannes Magnus de rebus Gothicis.",
+                "titleBib": "Gothorum Sueonumque historia.",
+                "persons": {
+                    "person": {
+                        "persName": "Magnus, Johannes",
+                        "gnd": 119082209,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "fabricius",
+                                "gesa",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Ausgabe nicht bestimmbar. In Frage kommen VD 16 M 222 (Basel: Michael Isengrin Witwe, 1558) oder die Titelauflage VD 16 M 223 (Köln: Johann Birckmann, 1567)."
+            },
+            {
+                "id": "rehlinger56",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 40,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Valerius Maximus.",
+                "titleBib": "Factorum et dictorum memorabilium libri novem.",
+                "persons": {
+                    "person": {
+                        "persName": "Valerius Maximus",
+                        "gnd": 118625969,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart"
+                            ]
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger57",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 41,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "C. Iulij Cæsaris commentaria.",
+                "titleBib": "C. IVLII || CAESARIS || COM=||mentaria.|| ET || Index eorum quae in his tractantur.||(per Raimũ||dum Marlianum ... ||)",
+                "persons": {
+                    "person": {
+                        "persName": "Caesar, Gaius Iulius",
+                        "gnd": 118518275,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Herwagen, Johannes"},
+                "year": 1535,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "C 34"
+                },
+                "bound": 1,
+                "comment": "Nach der treffenden Titelaufnahme sehr wahrscheinlich VD 16 c 34."
+            },
+            {
+                "id": "rehlinger58",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 42,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Berosus.",
+                "titleBib": "Berosi sacerdotis Chaldaici, antiqvitatvm libri qvinqve, cum commentariis Ioannis Annii Viterbensis same theologice professoris.",
+                "persons": {
+                    "person": {
+                        "persName": "Nanni, Giovanni",
+                        "gnd": 119062380,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "dbi",
+                                "fabricius"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Antwerpen",
+                        "getty": 7007856,
+                        "geoData": {
+                            "lat": 51.2139,
+                            "long": 4.4015
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Steels, Johannes"},
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommt eine der beiden Antwerpener Ausgaben bei Johannes Steels, 1545 oder 1552 Pettegree / Walsby, Netherlandish Books, 22132 oder 22133)."
+            },
+            {
+                "id": "rehlinger59",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 43,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "Historiarum sui temporis.",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Drei Teile in zwei Bänden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567)."
+            },
+            {
+                "id": "rehlinger60",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 44,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "Historiarum sui temporis.",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Drei Teile in zwei Bänden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567)."
+            },
+            {
+                "id": "rehlinger61",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 45,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "Elogia virorum bellica.",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Zwei Teile in zwei Bänden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571)."
+            },
+            {
+                "id": "rehlinger62",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 46,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "Elogia virorum bellica.",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "Zwei Teile in zwei Bänden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571)."
+            },
+            {
+                "id": "rehlinger63",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 47,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "PAVLI IO-||VII NOVOCOMEN-||SIS EPISCOPI NVCERI-||NI ELOGIA virorum bellica vir-||tute illustrium veris imaginibus sup-||posita, quae apud Musaeum spe-||ctantur, in libros septem || digesta.|| Doctorum item uirorum ingenij monumentis illu-||strium ab Auorum memoria publicatis, altero || tomo comprehensa.||",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Perna, Peter"},
+                "year": 1561,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "G 2064"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger64",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 48,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Iouij opera omnia sex tomis diuisa.",
+                "titleBib": "Elogia doctorum virorum ...",
+                "persons": {
+                    "person": {
+                        "persName": "Giovio, Paolo",
+                        "gnd": 118958682,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "dbi",
+                                "hls",
+                                "sandrart",
+                                "kall",
+                                "dpi",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Perna, Peter"},
+                "year": 1561,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "G 2059"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger65",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 49,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Alberti Crantzij historia Ecclesiastica &amp; politica.",
+                "titleBib": "SAXONIA || ET || METROPOLIS || ALBERTI CRANTZII || HISTORICI DOCTISS. SACRAE || Theologiae &amp; Iuris Canonici Doctoris || celeberrimi, ac Ecclesiae Ham-||burgensis quondàm || Decani.|| QVIBVS RES SAXONVM || ET ADIACENTIVM REGIONVM, AC || totius ferè Germaniae, in vtroque statu, tam || Ecclesiastico quàm Politico ... || expli-||cantur.|| Cum gemino rerum memorabilium co-||piosissimo INDICE.||",
+                "persons": {
+                    "person": {
+                        "persName": "Krantz, Albert",
+                        "gnd": 118777939,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "fabricius",
+                                "mav",
+                                "gspd",
+                                "cpr",
+                                "cprm",
+                                "gesa",
+                                "sandrart",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Köln",
+                        "getty": 7004446,
+                        "geoData": {
+                            "lat": 50.9333,
+                            "long": 6.95
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Quentel, Johann (Erben)"},
+                "year": 1574,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "K 2258"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger66",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 50,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "[Alberti Crantzij historia Ecclesiastica] &amp; politica.",
+                "titleBib": "Metropolis [EST: Ecclesiastica historia sive metropolis].",
+                "persons": {
+                    "person": {
+                        "persName": "Krantz, Albert",
+                        "gnd": 118777939,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "db",
+                                "fabricius",
+                                "mav",
+                                "gspd",
+                                "cpr",
+                                "cprm",
+                                "gesa",
+                                "sandrart",
+                                "dpi"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Köln",
+                        "getty": 7004446,
+                        "geoData": {
+                            "lat": 50.9333,
+                            "long": 6.95
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Quentel, Johann (Erben)"},
+                "year": 1574,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "K 2250"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger67",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 51,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pausanias.",
+                "titleBib": "PAVSANIAE || DE FLOREN-||TISS. VETERIS GRAE-||CIAE REGIONIBVS COM-||MENTARII || A ROMVLO AMASAEO,|| uiro utriusq: linguae peritiß. Summa || fide ac diligentia, conuersi.|| Cum indice &amp; rerum &amp; verborum || locupletissimo.||",
+                "persons": {
+                    "person": {
+                        "persName": "Pausanias, Periegeta",
+                        "gnd": 118592246,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall",
+                                "vkk"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Isengrin, Michael"},
+                "year": 1557,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "P 1076"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger68",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 52,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Pauli Diaconi historia.",
+                "titleBib": "HISTORIAE MISCELLAE || A || PAVLO AQVI||LEGIENSI DIACONO || PRIMVM COLLECTAE, POST || etiam à Landulpho Sagaci auctae pro-||ductae#́[que] ad Imperium Leonis || IIII. id est, annum Christi || DCCCVI.|| Libri XXIIII.|| In quibus praeter Eutropij, Flori ... || et aliorum historias, totam penè Ana||stasij Bibliothecarij Rom.Ecclesiasticam ... || contineri ... || polliceri possumus ... || adiecta Nicephori CP.episcopi Chronolo-||gia, et Indice copioso.||",
+                "persons": {
+                    "person": {
+                        "persName": "Landulfus Sagax",
+                        "role": "author"
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Perna, Peter"},
+                "year": 1569,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "L 243"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger69",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 53,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_11",
+                    "positionMisc": 1
+                },
+                "titleCat": "Iustinus.",
+                "titleBib": "Epitome historiarum Philippicarum Pompei Trogi.",
+                "persons": {
+                    "person": {
+                        "persName": "Iustinus, Marcus Iunianus",
+                        "gnd": "11871435X",
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger70",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 53,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_11",
+                    "positionMisc": 2
+                },
+                "titleCat": "&amp; Florus.",
+                "titleBib": "Epitome de Tito Livio.",
+                "persons": {
+                    "person": {
+                        "persName": "Florus, Lucius Annaeus",
+                        "gnd": 118691910,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "sandrart"
+                            ]
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger71",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 54,
+                "itemInVolume": 0,
+                "volumes": 1,
+                "titleCat": "Orosius.",
+                "titleBib": "Historiae adversus paganos.",
+                "persons": {
+                    "person": {
+                        "persName": "Orosius, Paulus",
+                        "gnd": 118590251,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "trithemius",
+                                "fabricius",
+                                "gspd",
+                                "sandrart",
+                                "kall"
+                            ]
+                        }
+                    }
+                },
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1
+            },
+            {
+                "id": "rehlinger72",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 55,
+                "itemInVolume": 1,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_12",
+                    "positionMisc": 1
+                },
+                "titleCat": "Iosippus Hebraicolatinus.",
+                "titleBib": "IOSIPPVS || DE BELLO IV/||DAICO.|| Deinde decem Iudaeorum capti/||uitates &amp; Decalogus cum ele-||ganti commentariolo Rab/||bi Aben Esra.||(Sebastiano Munstere || interprete.||) Hisce accesserunt Collectanea aliquot,|| quae Sebastianus Lepusculus Basi/|| liensis colligebat ... || Omnia Hebraicolatina.||",
+                "persons": {
+                    "person": {
+                        "persName": "Joseph ben Gōriōn",
+                        "gnd": 119723980,
+                        "role": "author"
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Petri, Heinrich"},
+                "year": 1559,
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {
+                    "language": [
+                        "heb",
+                        "lat"
+                    ]
+                },
+                "manifestation": {
+                    "systemManifestation": "VD16",
+                    "idManifestation": "ZV 8754"
+                },
+                "bound": 1
+            },
+            {
+                "id": "rehlinger73",
+                "pageCat": 1,
+                "imageCat": 1,
+                "numberCat": 55,
+                "itemInVolume": 2,
+                "volumes": 1,
+                "volumeNote": {
+                    "misc": "br:rehlinger/miscellany_12",
+                    "positionMisc": 2
+                },
+                "titleCat": "Philastrius de hæreticis.",
+                "titleBib": "De haeresibus.",
+                "persons": {
+                    "person": {
+                        "persName": "Filastrius Brixiensis",
+                        "gnd": 100233309,
+                        "role": "author",
+                        "beacon": {
+                            "beacon": [
+                                "wkp",
+                                "trithemius",
+                                "fabricius"
+                            ]
+                        }
+                    }
+                },
+                "places": {
+                    "place": {
+                        "placeName": "Basel",
+                        "getty": 7007269,
+                        "geoData": {
+                            "lat": 47.55,
+                            "long": 7.6
+                        }
+                    }
+                },
+                "publishers": {"publisher": "Petri, Heinrich"},
+                "format": "8°",
+                "mediaType": "Book",
+                "languages": {"language": "lat"},
+                "manifestation": {"systemManifestation": "Ausgabe nicht bestimmbar"},
+                "bound": 1,
+                "comment": "In Frage kommen die Editio princeps, VD 16 F 1016 (Basel: Heinrich Petri, 1528), sowie VD 16 F 2017 (Basel: Heinrich Petri, 1539)."
+            }
+        ]
+    }
+}
