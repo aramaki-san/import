@@ -1,0 +1,29 @@
+{
+	"places": {
+	    "place": [{
+	        "name": "Nürnberg",
+            "getty": 7004334
+	    },
+	    {
+	        "name": "Nürnberg",
+	        "getty": 00000000
+	    },
+	    {
+	        "name": "Nuernberg",
+	        "getty": 7004334
+	    },
+	    
+	    {
+	        "name":"Nürnberg"
+	    },
+	    {
+	        "name":"Dresden"
+	    },
+	    {
+	        "name":"Leipzig",
+	        "getty": 7004334
+	    }
+	    
+	]
+	}
+}
