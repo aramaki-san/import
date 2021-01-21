@@ -1,18 +1,12 @@
 {
 	"c": [{
 	    "controlaccess": [{
-	    "name": "Nürnberg",
-            "getty": 7004334
-	    },
-	{ "p":{"bibref":{"title": "titel1"}}}
+	 "p":{"bibref":{"title": "titel1"}}}
 ]
 },
 {
 	    "controlaccess": [{
-	    "name": "Nürnberg",
-            "getty": 7004334
-	    },
-	{ "p":{"bibref":{"title": ["titel2", "titel3"]}}}
+	  "p":{"bibref":{"title": ["titel2", "titel3"]}}}
 ]
 }]	    
 }
