@@ -1,29 +1,18 @@
 {
-	"places": {
-	    "place": [{
-	        "name": "Nürnberg",
+	"c": {
+	    "controlaccess: [{
+	    "name": "Nürnberg",
             "getty": 7004334
 	    },
-	    {
-	        "name": "Nürnberg",
-	        "getty": 1414141414
+	{ "p":{"bibref":{"title": "titel1"}}
+]
+},
+"c": {
+	    "controlaccess: [{
+	    "name": "Nürnberg",
+            "getty": 7004334
 	    },
-	    {
-	        "name": "Nuernberg",
-	        "getty": 7004334
-	    },
-	    
-	    {
-	        "name":"Nürnberg"
-	    },
-	    {
-	        "name":"Dresden"
-	    },
-	    {
-	        "name":"Leipzig",
-	        "getty": 7004334
-	    }
-	    
-	]
-	}
+	{ "p":{"bibref":{"title": ["titel2", "titel3"]}}
+]
+}	    
 }
