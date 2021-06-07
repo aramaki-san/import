@@ -1,0 +1,1567 @@
+{
+    "rows": [
+        {
+            "Nr.": "Brief1",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                }
+            ],
+            "Jahr": "1861",
+            "Datum": "Mitte März 1861",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250906 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1861,219",
+            "Relation": "Foto1"
+        },
+        {
+            "Nr.": "Brief10",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Daechsel, Friederike",
+                    "role": "Adressat",
+                    "gnd": "1063349001"
+                },
+                {
+                    "persname": "Nietzsche, Rosalie",
+                    "role": "Adressat",
+                    "gnd": "1063314046"
+                }
+            ],
+            "Jahr": "1864",
+            "Datum": "[21.]12.1864",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250805 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/eKGWB/index#eKGWB/BVN-1864,454",
+            "Relation": "Foto51"
+        },
+        {
+            "Nr.": "Brief11",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Verfasser",
+                    "gnd": "118538772"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1865",
+            "Datum": "05.02.1865",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:251095 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto51"
+        },
+        {
+            "Nr.": "Brief12",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Adressat",
+                    "gnd": "118538772"
+                }
+            ],
+            "Jahr": "1866",
+            "Datum": "15.08.1866",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2260 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:17517218285324::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2260 ",
+            "Relation": "Foto45"
+        },
+        {
+            "Nr.": "Brief13",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Adressat",
+                    "gnd": "118538772"
+                }
+            ],
+            "Jahr": "1866",
+            "Datum": "Ende August 1866",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:5418",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:17517218285324::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1866,517",
+            "Relation": "Foto45"
+        },
+        {
+            "Nr.": "Brief14",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Mushacke, Hermann",
+                    "role": "Adressat"
+                }
+            ],
+            "Jahr": "1866",
+            "Datum": "10.10.1866",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2061 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:7518881801660::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1866,522",
+            "Relation": "Foto45"
+        },
+        {
+            "Nr.": "Brief15",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Adressat",
+                    "gnd": "11853419X"
+                }
+            ],
+            "Jahr": "1867",
+            "Datum": "Ende Juni 1867",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3306 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:16805874733019::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1867,544",
+            "Relation": "Foto46 "
+        },
+        {
+            "Nr.": "Brief16",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1868",
+            "Datum": "08.08.1868",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:4429 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1868,583",
+            "Relation": "Foto8"
+        },
+        {
+            "Nr.": "Brief17",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1869",
+            "Datum": "Mitte Juli 1869",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:1429 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:16805874733019::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1869,15",
+            "Relation": "Foto9"
+        },
+        {
+            "Nr.": "Brief18",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1869",
+            "Datum": "17.08.1869",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:814 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:16805874733019::NO:RP:P2_ID,P2_QUELLE:814,130",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1869,22",
+            "Relation": "Foto9"
+        },
+        {
+            "Nr.": "Brief19",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Deussen, Paul",
+                    "role": "Adressat",
+                    "gnd": "118671707"
+                }
+            ],
+            "Jahr": "1869",
+            "Datum": "25.08.1869",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2677 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:16805874733019::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1869,24",
+            "Relation": "Foto9"
+        },
+        {
+            "Nr.": "Brief2",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Verfasser",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nitzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1861",
+            "Datum": "Mitte März 1861",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250634 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto1"
+        },
+        {
+            "Nr.": "Brief20",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Grimmenstein, Fanny von",
+                    "role": "Verfasser",
+                    "gnd": "1077389566"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1870",
+            "Datum": "18.01.1870",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto9"
+        },
+        {
+            "Nr.": "Brief21",
+            "corpname": ["Universitätsbibliothek  Basel"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Vischer-Bilfinger, Wilhelm",
+                    "role": "Adressat",
+                    "gnd": "118768670"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "15.03.1871",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:1965 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1871,127a",
+            "Relation": "Foto10"
+        },
+        {
+            "Nr.": "Brief22",
+            "corpname": ["Universitätsbibliothek  Basel"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Overbeck, Franz",
+                    "role": "Adressat",
+                    "gnd": "118590960"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "nach dem 22.03.1871",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2619 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1871,128",
+            "Relation": "Foto10"
+        },
+        {
+            "Nr.": "Brief23",
+            "person": [
+                {
+                    "persname": "Wagner, Cosima",
+                    "role": "Verfasser",
+                    "gnd": "118628232"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "02.04.1871",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto10"
+        },
+        {
+            "Nr.": "Brief24",
+            "person": [
+                {
+                    "persname": "Overbeck, Franz",
+                    "role": "Verfasser",
+                    "gnd": "118590960"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "17.04.1871",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto10"
+        },
+        {
+            "Nr.": "Brief25",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "20.10.1871",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2933 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:6243969201716::NO:RP:P2_ID,P2_QUELLE:2933,130",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1871,162",
+            "Relation": "Foto47"
+        },
+        {
+            "Nr.": "Brief26",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Adressat",
+                    "gnd": "118538772"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "20.10.1871",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2814",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:6243969201716::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1871,163",
+            "Relation": "Foto47"
+        },
+        {
+            "Nr.": "Brief27",
+            "person": [
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Verfasser",
+                    "gnd": "118790951"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1871",
+            "Datum": "27.11.1871",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:1987 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto47"
+        },
+        {
+            "Nr.": "Brief28",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Adressat",
+                    "gnd": "11853419X"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "07.11.1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3777 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:6243969201716::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,271",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief29",
+            "person": [
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Verfasser",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "27.11.1872",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief3",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                }
+            ],
+            "Jahr": "1862",
+            "Datum": "06.-10. März 1862",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250907 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/eKGWB/index#eKGWB/BVN-1862,313",
+            "Relation": "Ser1"
+        },
+        {
+            "Nr.": "Brief30",
+            "person": [
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Verfasser",
+                    "gnd": "11853419X"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "27.12.1872",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief31",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "07.12.1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:263 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,277",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief32",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Adressat",
+                    "gnd": "118538772"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "12.12.1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3779 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:6243969201716::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,279",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief33",
+            "corpname": ["Privatbesitz"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "Mitte Dezember 1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:825",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,280",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief34",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Senger, Hugo von",
+                    "role": "Adressat",
+                    "gnd": "103947612"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "Mitte Dezember 1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2219 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,281",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief35",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Meysenbug, Malwida von",
+                    "role": "Adressat",
+                    "gnd": "118582054"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "20.12.1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3780 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,282",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief36",
+            "person": [
+                {
+                    "persname": "Senger, Hugo von",
+                    "role": "Verfasser",
+                    "gnd": "103947612"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "22.12.1872",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief37",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "23.12.1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2985 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::NO:RP:P2_ID,P2_QUELLE:2985,130",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief38",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Therese von Sachsen-Gotha-Altenburg",
+                    "role": "Adressat",
+                    "gnd": "116741457"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "vermutl. nach Weihnachten 1872",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2639",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1872,286",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief39",
+            "person": [
+                {
+                    "persname": "Gersdorff, Carl von",
+                    "role": "Verfasser",
+                    "gnd": "118538772"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1872",
+            "Datum": "Ende Dezember 1872",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief4",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Rosalie",
+                    "role": "Adressat",
+                    "gnd": "1063314046"
+                }
+            ],
+            "Jahr": "1862",
+            "Datum": "06.11.1862",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250912 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/eKGWB/index#eKGWB/BVN-1862,316",
+            "Relation": "Ser1"
+        },
+        {
+            "Nr.": "Brief40",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Adressat",
+                    "gnd": "118790951"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "04.01.1873",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3782",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1873,288",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief41",
+            "person": [
+                {
+                    "persname": "Meysenbug, Malwida von",
+                    "role": "Verfasser",
+                    "gnd": "118582054"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "07.01.1873",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief42",
+            "person": [
+                {
+                    "persname": "Rohde, Erwin",
+                    "role": "Verfasser",
+                    "gnd": "118790951"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "12.01.1873",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief43",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "31.01.1873",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:1201 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::NO:RP:P2_ID,P2_QUELLE:1201,130",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1873,293",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief44",
+            "person": [
+                {
+                    "persname": "Wagner, Cosima",
+                    "role": "Verfasser",
+                    "gnd": "118628232"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "12,02.1873",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief45",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Adressat",
+                    "gnd": "11853419X"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "09.03.1873",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:2900",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:15511323309014::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1873,299",
+            "Relation": "Foto11"
+        },
+        {
+            "Nr.": "Brief46",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Pinder, Wilhelm",
+                    "role": "Verfasser"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "13.10.1873",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3915 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto12"
+        },
+        {
+            "Nr.": "Brief47",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Krug, Gustav",
+                    "role": "Adressat",
+                    "gnd": "119369273"
+                }
+            ],
+            "Jahr": "1873",
+            "Datum": "14.11.1873",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:4986127002362::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1873,326",
+            "Relation": "Foto13"
+        },
+        {
+            "Nr.": "Brief48",
+            "corpname": ["Deutsches Literaturarchiv Marbach, Nachlass Lou Andreas-Salomé"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Salomé, Lou von",
+                    "role": "Adressat",
+                    "gnd": "118502921"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "28.05.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:4483",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1882,334",
+            "Relation": "Ser4"
+        },
+        {
+            "Nr.": "Brief49",
+            "person": [
+                {
+                    "persname": "Rée, Paul",
+                    "role": "Verfasser",
+                    "gnd": "118743783"
+                },
+                {
+                    "persname": "Salomé, Lou von",
+                    "role": "Adressat",
+                    "gnd": "118502921"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "22.05.1882",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser4"
+        },
+        {
+            "Nr.": "Brief5",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Verfasser",
+                    "gnd": "11853419X"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1862",
+            "Datum": "Mitte Juni 1862",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:251046 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser1"
+        },
+        {
+            "Nr.": "Brief50",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Schmeitzner, Ernst",
+                    "role": "Adressat",
+                    "gnd": "118823698"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "08.09.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:4986127002362::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1882,299",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief51",
+            "corpname": ["Universitätsbibliothek  Basel"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Overbeck, Franz",
+                    "role": "Adressat",
+                    "gnd": "118590960"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "um den 10.11.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1882,327",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief52",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Schmeitzner, Ernst",
+                    "role": "Adressat",
+                    "gnd": "118823698"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "15.11.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1882,330",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief53",
+            "corpname": ["Privatbesitz"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Dannreuther, Gustav",
+                    "role": "Adressat",
+                    "gnd": "133528073"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "15.11.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1882,330a",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief54",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Ott, Luise",
+                    "role": "Verfasser"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1882",
+            "Datum": "17.11.1882",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief55",
+            "corpname": ["Privatbesitz"],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Laban, Ferdinand",
+                    "role": "Adressat",
+                    "gnd": "116635134"
+                }
+            ],
+            "Jahr": "1884",
+            "Datum": "Anfang März [richtig: Februar] 1884",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1884,492",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief56",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Laban, Ferdinand",
+                    "role": "Verfasser",
+                    "gnd": "116635134"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1884",
+            "Datum": "05.03.1884",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief57",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                }
+            ],
+            "Jahr": "1888",
+            "Datum": "26.04.1888",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:4986127002362::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1888,1024",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief58",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                }
+            ],
+            "Jahr": "1888",
+            "Datum": "10.06.1888",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=406:2:::::P2_ID:3796 ",
+            "LinkGSADigi": "https://ores.klassik-stiftung.de/ords/f?p=406:2:4986127002362::::p2_ansicht,p2_ansicht2:2,1",
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/#eKGWB/BVN-1888,1044",
+            "Relation": "Ser3"
+        },
+        {
+            "Nr.": "Brief59",
+            "person": [
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Verfasser",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Overbeck, Franz",
+                    "role": "Adressat",
+                    "gnd": "118590960"
+                }
+            ],
+            "Jahr": "1891",
+            "Datum": "Sommer 1891",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser5"
+        },
+        {
+            "Nr.": "Brief6",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Adressat",
+                    "gnd": "11853419X"
+                }
+            ],
+            "Jahr": "1862",
+            "Datum": "07.07.1862",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250814 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/eKGWB/index#eKGWB/BVN-1862,323",
+            "Relation": "Ser1"
+        },
+        {
+            "Nr.": "Brief60",
+            "person": [
+                {
+                    "persname": "Fuchs, Carl",
+                    "role": "Verfasser"
+                },
+                {
+                    "persname": "Köselitz, Heinrich",
+                    "role": "Adressat",
+                    "gnd": "127679677"
+                }
+            ],
+            "Jahr": "1891",
+            "Datum": "24.10.1891",
+            "LinkGSA": null,
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Ser5"
+        },
+        {
+            "Nr.": "Brief7",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Redtel, August",
+                    "role": "Verfasser",
+                    "gnd": "1081676566"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1864",
+            "Datum": "19.07.1864",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250676 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto5"
+        },
+        {
+            "Nr.": "Brief8",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Verfasser",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Adressat",
+                    "gnd": "118587943"
+                }
+            ],
+            "Jahr": "1864",
+            "Datum": "08.10.1864",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250634 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": null,
+            "Relation": "Foto5"
+        },
+        {
+            "Nr.": "Brief9",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "person": [
+                {
+                    "persname": "Nietzsche, Friedrich",
+                    "role": "Verfasser",
+                    "gnd": "118587943"
+                },
+                {
+                    "persname": "Nietzsche, Franziska",
+                    "role": "Adressat",
+                    "gnd": "119158582"
+                },
+                {
+                    "persname": "Nietzsche, Elisabeth",
+                    "role": "Adressat",
+                    "gnd": "11853419X"
+                }
+            ],
+            "Jahr": 1864,
+            "Datum": "[20.]12.1864",
+            "LinkGSA": "https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:250909 ",
+            "LinkGSADigi": null,
+            "Gattung": "Brief",
+            "Nachweis": null,
+            "LinkNietSource": "http://www.nietzschesource.org/eKGWB/index#eKGWB/BVN-1864,455",
+            "Relation": "Foto51"
+        }
+    ]
+}

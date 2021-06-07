@@ -1,0 +1,2035 @@
+{
+    "rows": [
+        {
+            "Nr.": "Bue1",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Donndorf, Karl",
+                    "gnd": "119125331"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 136, 239, Nr. 16"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue10",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Leipzig ",
+                " Museum der bildenden Künste"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronzeguss",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 243, Nr. 42"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue11",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stifung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Marmor",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 244, Nr. 43"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue12",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kramer, Arnold",
+                    "gnd": "122572157"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": null,
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 245, Nr. 53"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue13",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kramer, Arnold",
+                    "gnd": "122572157"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze ",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246, Nr. 54"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue14",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kramer, Arnold",
+                    "gnd": "122572157"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 245-255, Nr. 55"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv, Vorbesitz Adalbert Oehler"
+        },
+        {
+            "Nr.": "Bue15",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kramer, Arnold",
+                    "gnd": "122572157"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246, Nr. 56"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Prof. Dr. H. Gehring, Schenkung 1959"
+        },
+        {
+            "Nr.": "Bue16",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Sils-Maria, Oberengadin ",
+                " Nietzsche-Haus"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kruse, Max",
+                    "gnd": "118778137"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Marmor",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246, Nr. 58"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue17",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kruse, Max",
+                    "gnd": "118778137"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246, Nr. 59?"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Bue18",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kruse, Max",
+                    "gnd": "118778137"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, lasiert",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246, Nr. 60"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Bue19",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Kruse, Max",
+                    "gnd": "118778137"
+                }
+            ],
+            "Titel": "Nietzsche-Denkmal",
+            "Material / Technik": null,
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 246 f., Nr. 61"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue2",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Donndorf, Karl",
+                    "gnd": "119125331"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 135 f., 239, Nr. 17"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue20",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Lampel, Johann",
+                    "gnd": "116664304"
+                }
+            ],
+            "Titel": "Zarathustra mit Schlange und Adler",
+            "Material / Technik": null,
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 79, 247, Nr. 64"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue21",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                "Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Schellbach, Siegfried",
+                    "gnd": "117215465"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 257, Nr. 122"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue22",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Schellbach, Siegfried",
+                    "gnd": "117215465"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 257, Nr. ???"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue23",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Schellbach, Siegfried",
+                    "gnd": "117215465"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, getönt",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue24",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Schellbach, Siegfried",
+                    "gnd": "117215465"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips?",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 257, Nr. 125"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue25",
+            "Digitalisate": null,
+            "Bestand": "Münzen und Medaillen",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Münzen und  Medaillen",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 260, Nr. 140"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Bue26",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 97, 260, Nr. 139"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue3",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Donndorf, Karl",
+                    "gnd": "119125331"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 136 f., 149 f., 239, Nr. 18"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue4",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": "Weimar",
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Donndorf, Karl",
+                    "gnd": "119125331"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 239, Nr. 19 / BV Nietzsche-Archiv 1991 Nr. 27"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue5",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Donndorf, Karl",
+                    "gnd": "119125331"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Marmor",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 239, Nr. 20"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Bue6",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Drexler, Julius",
+                    "gnd": "1079693165"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 132 f., 240, Nr. 22"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue7",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klein, Max",
+                    "gnd": "11918690X"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 150 f., 243, Nr. 38, Abb. 16"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue8",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronze",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 243, Nr. 39"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Bue9",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                },
+                {"persname": "Bingen, Pierre"}
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Bronzeguss in verlorener Form, poliert; auf quadratischer Holzplinte; Mahagoni, Nadelholz, Tulpenbaum, Messing, Eisen",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 243, Nr. 41; Dietrich/Erbsmehl 2004, S. 132-137, Nr. 1"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Gra1",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Lithografie, olivgrüner Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra10",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Der Unzeitgemäße",
+            "Material / Technik": "Lithografie",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 4"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra11",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Leipzig ",
+                " Museum der bildenden Künste "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Federzeichnung auf Papier",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 243, Nr. 40"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra12",
+            "Digitalisate": null,
+            "Bestand": "Gemäldesammlung vor 1860",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Köselitz, Rudolf",
+                    "gnd": "119223457"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Öl auf Leinwand",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 245, Nr. 49"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nachlass Friedrich Nietzsche / Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra13",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche auf dem Krankenbett",
+            "Material / Technik": "Bleistift",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 250 f., Nr. 83 / Malerei nach Fotografie 1970, Kat-Nr. 892, 893 "
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra14",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche auf dem Krankenbett",
+            "Material / Technik": "Bleistift",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 84 / Malerei nach Fotografie 1970, Kat-Nr. 895"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra15",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche auf dem Krankenbett",
+            "Material / Technik": "Bleistift auf Zeichenblockblatt",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 85 / Malerei nach Fotografie 1970, Kat-Nr. 891"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra16",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche auf dem Krankenbett",
+            "Material / Technik": "Bleistift?",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 86 / Malerei nach Fotografie 1970, Kat-Nr. 894"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra17",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Gauting bei München ",
+                " Hans Olde-Sohn"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche-Kopf",
+            "Material / Technik": "Kreide und Bleistift",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 87 / Malerei nach Fotografie 1970, Kat-Nr. 920"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra18",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche auf dem Balkon der Villa Silberblick",
+            "Material / Technik": "Kohle",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 88"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra19",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche im Wintergarten der Villa Silberblick",
+            "Material / Technik": "Kreide",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251, Nr. 89"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra2",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, brauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra20",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche im Wintergarten der Villa Silberblick",
+            "Material / Technik": "Öl auf Karton",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 251 f., Nr. 90"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra21",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche im Wintergarten der Villa Silberblick",
+            "Material / Technik": "Öl auf Karton",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 252, Nr. 91"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra22",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche im Wintergarten der Villa Silberblick",
+            "Material / Technik": "Öl auf Karton",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 252, Nr. 92"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra23",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche im Wintergarten der Villa Silberblick",
+            "Material / Technik": "Graphit und Kohle",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra24",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Heilbronn ",
+                " Privatbesitz"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Bildnis Friedrich Nietzsche",
+            "Material / Technik": "Öl auf Pappe",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 252, Nr. 94"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra25",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Bonn ",
+                " Privatbesitz"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Bildnis Friedrich Nietzsche",
+            "Material / Technik": "Öl auf Leinwand",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 252, Nr. 95"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra26",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche auf dem Balkon der Villa Silberblick",
+            "Material / Technik": "Öl auf Leinwand",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 252, Nr. 96"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra27",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Halle (Saale) ",
+                " Staatliche Galerie Moritzburg"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Bildnis Friedrich Nietzsche",
+            "Material / Technik": "Öl auf Leinwand",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253, Nr. 97"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nachlass Prof. Hermann Gocht"
+        },
+        {
+            "Nr.": "Gra28",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Gauting bei München ",
+                " Hans Olde-Sohn"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Nietzsche-Kopf",
+            "Material / Technik": "Bräunliche Kreide auf Zeichenblockkarton",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253, Nr. 98 / Malerei nach Fotografie 1970, Kat-Nr. 919"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra29",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Gauting bei München ",
+                " Privatbesitz"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253, Nr. 99"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra3",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, schwarzer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra30",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Sog. Großer Nietzsche Kopf ",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253, Nr. 101"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra31",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Sog. Kleiner Nietzsche Kopf",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 254, Nr. 104 / Gantner 1970, S. 240, Nr. 11"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra32",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": [
+                "Gauting bei München ",
+                " Hans Olde-Sohn"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Sog. Kleiner Nietzsche Kopf",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253, Nr. 102 / Malerei nach Fotografie 1970, Kat-Nr. 885"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra33",
+            "Digitalisate": null,
+            "Bestand": "Nietzsche-Archiv Ikonographie / Sammlungs- und Erinnerungsstücke / Reproduktionen künstlerischer Darstellungen Friedrich Nietzsches",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Olde, Hans",
+                    "gnd": "118589776"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 253 f., Nr. 103"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra38",
+            "Digitalisate": null,
+            "Bestand": null,
+            "corpname": ["Verbleib unbekannt"],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Vallotton, Felix",
+                    "gnd": "118626043"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Holzschnitt",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 134, 261, Nr. 146"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra4",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, brauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra40",
+            "Digitalisate": null,
+            "Bestand": "Nietzsche-Archiv Ikonographie / Sammlungs- und Erinnerungsstücke / Reproduktionen künstlerischer Darstellungen Friedrich Nietzsches",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Weinhold, Karl",
+                    "gnd": "118806521"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Radierung",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 263, Nr. 154"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Gra41",
+            "Digitalisate": null,
+            "Bestand": "Nietzsche-Archiv Ikonographie / Sammlungs- und Erinnerungsstücke / Reproduktionen künstlerischer Darstellungen Friedrich Nietzsches",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "unbekannt",
+                    "gnd": null
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Holzschnitt  ",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 264, Nr. 163"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra42",
+            "Digitalisate": null,
+            "Bestand": "Nietzsche-Archiv Ikonographie / Sammlungs- und Erinnerungsstücke / Reproduktionen künstlerischer Darstellungen Friedrich Nietzsches",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Goethe- und Schiller Archiv"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "unbekannt",
+                    "gnd": null
+                }
+            ],
+            "Titel": "Exlibris für Georg Lapper",
+            "Material / Technik": "Lithografie",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 264, Nr. 164"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra43",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Köselitz, Rudolf",
+                    "gnd": "119223457"
+                },
+                {
+                    "persname": "Schultze, Gustav",
+                    "gnd": "139909419"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Kreide, laviert und gehöht",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Gra44",
+            "Digitalisate": null,
+            "Bestand": "Gemäldesammlung vor 1860",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Köselitz, Rudolf",
+                    "gnd": "119223457"
+                },
+                {
+                    "persname": "Schultze, Gustav",
+                    "gnd": "139909419"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Öl auf Leinwand",
+            "Gattung": "Malerei",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 245, Nr. 177"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra5",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, brauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra6",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, grauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra7",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, grauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Gra8",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Bauer, Karl",
+                    "gnd": "116085320"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche, im Meditationsgestus",
+            "Material / Technik": "Lithografie, grauer Druck",
+            "Gattung": "Grafik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause 1984",
+                "refref": " S. 237, Nr. 2"
+            },
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Archiv"
+        },
+        {
+            "Nr.": "Tot",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, geschellackt, patiniert",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {"ref": "BV Plastik 1960 Nr. 427"},
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot1",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Saudek, Rudolf",
+                    "gnd": "143010174"
+                },
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguß, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "vgl. Krause",
+                "refref": " 1984, S. 151 f., Abb. 11; S. 256, Nr. 118 / BV Plastik 1960 Nr. 524"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot10",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Saudek, Rudolf",
+                    "gnd": "143010174"
+                },
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Tot11",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Zilken, Lorenz",
+                    "gnd": "119138220"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Tot12",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": null,
+                    "gnd": null
+                },
+                {"persname": "Jagenberg, Carl Helmuth"}
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Tot14",
+            "Digitalisate": null,
+            "Bestand": "Grafische Sammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Melzer, Albert ",
+                    "gnd": "1229254471"
+                },
+                {"persname": "Jagenberg, Carl Helmuth"}
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "fotografische Reproduktion, gerahmt",
+            "Gattung": "Fotografie",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": "Nietzsche-Sammlung Museumsbestand Martin Burger"
+        },
+        {
+            "Nr.": "Tot2",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Saudek, Rudolf",
+                    "gnd": "143010174"
+                },
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, geschellackt, poliert",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "Krause",
+                "refref": " 1984, S. 151 f., Abb. 11; S. 256, Nr. 118"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot3",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Saudek, Rudolf",
+                    "gnd": "143010174"
+                },
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "references": {
+                "ref": "vgl. Krause",
+                "refref": " 1984, S. 151 f., Abb. 11; S. 256, Nr. 118"
+            },
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot4",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen  "
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Unbekannt",
+                    "gnd": null
+                },
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, geschellackt",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot5",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Stoeving, Curt",
+                    "gnd": "1044288051"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot6",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen ",
+                null,
+                " Museum Neues Weimar"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Saudek, Rudolf",
+                    "gnd": "143010174"
+                },
+                {
+                    "persname": "Klinger, Max",
+                    "gnd": "118563335"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, Abguss, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot7",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Zilken, Lorenz",
+                    "gnd": "119138220"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips, gefasst",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        },
+        {
+            "Nr.": "Tot9",
+            "Digitalisate": null,
+            "Bestand": "Plastiksammlung",
+            "corpname": [
+                "Klassik Stiftung Weimar ",
+                " Direktion Museen"
+            ],
+            "Ort": null,
+            "OrtGND": null,
+            "persons": [
+                {
+                    "persname": "Zilken, Lorenz",
+                    "gnd": "119138220"
+                }
+            ],
+            "Titel": "Friedrich Nietzsche",
+            "Material / Technik": "Gips",
+            "Gattung": "Plastik",
+            "Schlagwort": null,
+            "LinkGSA": null,
+            "Provenienz": null
+        }
+    ]
+}

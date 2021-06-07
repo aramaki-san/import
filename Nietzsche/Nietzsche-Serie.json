@@ -1,0 +1,39 @@
+{
+  "rows" : [
+    {
+      "ID" : "Ser1",
+      "Serie" : "Obersekunda",
+     "Bezugsobjekt" : [ "Foto2 "," Foto3 "," Foto4"]
+    },
+    {
+      "ID" : "Ser2",
+      "Serie" : "Professor",
+     "Bezugsobjekt" : [ "Foto13 "," Foto14 "," Foto15"]
+    },
+    {
+      "ID" : "Ser3",
+      "Serie" : "»In media vita«",
+     "Bezugsobjekt" : [ "Foto16 "," Foto17 "," Foto18 "," Foto19 "," Foto20 "," Gra12 "," Gra43 "," Gra44"]
+    },
+    {
+      "ID" : "Ser5",
+      "Serie" : "Mit seiner Mutter",
+     "Bezugsobjekt" : [ "Foto21 "," Foto49"]
+    },
+    {
+      "ID" : "Ser6",
+      "Serie" : "Im Nietzsche-Archiv",
+     "Bezugsobjekt" : [ "Foto24 "," Foto25 "," Foto26 "," Foto27 "," Foto28 "," Foto29 "," Foto30 "," Foto31 "," Foto32"]
+    },
+    {
+      "ID" : "Ser7",
+      "Serie" : "Im Nietzsche-Archiv (Album)",
+     "Bezugsobjekt" : [ "Foto33 "," Foto34 "," Foto35 "," Foto36 "," Foto37 "," Foto38 "," Foto39 "," Foto40 "," Foto41 "," Foto42 "," Foto43"]
+    },
+    {
+      "ID" : "Ser8",
+      "Serie" : "Im Nietzsche-Archiv",
+     "Bezugsobjekt" : [ "Gra18 "," Gra19 "," Gra20 "," Gra21 "," Gra22 "," Gra 23 "," Gra26 "," Gra30 "," Gra31"]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "rows" : [
+    {
+      "Nr." : "Empf1",
+      "Empfänger" : "Daechsel, Friederike",
+       "gnd" : "1063349001",
+      "Bezugsobjekt" : [ "Foto51 "]
+    },
+    {
+      "Nr." : "Empf2",
+      "Empfänger" : "Deussen, Paul",
+       "gnd" : "118671707",
+      "Bezugsobjekt" : [ "[Foto1] "," Foto9"]
+    },
+    {
+      "Nr." : "Empf4",
+      "Empfänger" : "Gersdorff, Carl von",
+       "gnd" : "118538772",
+      "Bezugsobjekt" : [ "Foto11 "," Foto12 "," Foto47 "," Foto51 "]
+    },
+    {
+      "Nr." : "Empf5",
+      "Empfänger" : "Granier, Raimund",
+       "gnd" : "117553484",
+      "Bezugsobjekt" : [ "Ser1"]
+    },
+    {
+      "Nr." : "Empf6",
+      "Empfänger" : "Götz, Georg",
+       
+      "Bezugsobjekt" : [ "Foto11 "," Foto12"]
+    },
+    {
+      "Nr." : "Empf7",
+      "Empfänger" : "Grimmenstein, Fanny von",
+       "gnd" : "1077389566",
+      "Bezugsobjekt" : [ "Foto9"]
+    },
+    {
+      "Nr." : "Empf8",
+      "Empfänger" : "[Guerrieri-Gonzaga, Emma]",
+       "gnd" : "113637700X",
+      "Bezugsobjekt" : [ "Foto13"]
+    },
+    {
+      "Nr." : "Empf9",
+      "Empfänger" : "Fuchs, Carl",
+       
+      "Bezugsobjekt" : [ "Ser5"]
+    },
+    {
+      "Nr." : "Empf10",
+      "Empfänger" : "Herzen, Olga",
+       "gnd" : "189477059",
+      "Bezugsobjekt" : [ "Foto11"]
+    },
+    {
+      "Nr." : "Empf11",
+      "Empfänger" : "Kletschke, Hermann",
+       
+      "Bezugsobjekt" : [ "Foto5"]
+    },
+    {
+      "Nr." : "Empf12",
+      "Empfänger" : "Köselitz, Heinrich",
+       "gnd" : "127679677",
+      "Bezugsobjekt" : [ "Ser5"]
+    },
+    {
+      "Nr." : "Empf13",
+      "Empfänger" : "Krug, Gustav",
+       
+      "Bezugsobjekt" : [ "Foto13"]
+    },
+    {
+      "Nr." : "Empf14",
+      "Empfänger" : "Redtel, Anna",
+       
+      "Bezugsobjekt" : [ "Foto5"]
+    },
+    {
+      "Nr." : "Empf15",
+      "Empfänger" : "Redtel, August",
+       "gnd" : "1081676566",
+      "Bezugsobjekt" : [ "Foto5"]
+    },
+    {
+      "Nr." : "Empf16",
+      "Empfänger" : "Rohde, Erwin",
+       "gnd" : "118790951",
+      "Bezugsobjekt" : [ "Foto8 "," Foto9 "," Foto11 "," Foto13 "," Foto47 "," Ser3"]
+    },
+    {
+      "Nr." : "Empf17",
+      "Empfänger" : "Romundt, Heinrich",
+       "gnd" : "116606908",
+      "Bezugsobjekt" : [ "Foto8"]
+    },
+    {
+      "Nr." : "Empf18",
+      "Empfänger" : "Overbeck, Franz",
+       "gnd" : "118590960",
+      "Bezugsobjekt" : [ "Foto10 "," Foto11 "," Foto12 "," Foto13 ","Ser5"]
+    },
+    {
+      "Nr." : "Empf19",
+      "Empfänger" : "Schenkel, Rudolf",
+       "gnd" : "1153039141",
+      "Bezugsobjekt" : [ "Ser1"]
+    },
+    {
+      "Nr." : "Empf20",
+      "Empfänger" : "Senger, Hugo von",
+       "gnd" : "103947612",
+      "Bezugsobjekt" : [ "Foto11"]
+    },
+    {
+      "Nr." : "Empf21",
+      "Empfänger" : "Meysenbug, Malwida von",
+       "gnd" : "118582054",
+      "Bezugsobjekt" : [ "Foto11"]
+    },
+    {
+      "Nr." : "Empf22",
+      "Empfänger" : "Nietzsche, Franziska",
+       "gnd" : "119158582",
+      "Bezugsobjekt" : [ "Foto1 "," Foto8 "," Foto11 "," Foto50 "," Foto51 "," Ser1"]
+    },
+    {
+      "Nr." : "Empf23",
+      "Empfänger" : "Nietzsche, Elisabeth",
+       "gnd" : "11853419X",
+      "Bezugsobjekt" : [ "Foto1 "," Foto8 "," Foto11 "," Foto51 "," Ser1"]
+    },
+    {
+      "Nr." : "Empf24",
+      "Empfänger" : "Nietzsche, Rosalie",
+       "gnd" : "1063314046",
+      "Bezugsobjekt" : [ "Foto51 "," Ser1"]
+    },
+    {
+      "Nr." : "Empf25",
+      "Empfänger" : "[Pinder, Wilhelm]",
+       "gnd" : "118792237",
+      "Bezugsobjekt" : [ "Foto12"]
+    },
+    {
+      "Nr." : "Empf26",
+      "Empfänger" : "Vischer-Bilfinger, Wilhelm",
+       "gnd" : "118768670",
+      "Bezugsobjekt" : [ "Foto10"]
+    },
+    {
+      "Nr." : "Empf27",
+      "Empfänger" : "Wagner, Cosima",
+       "gnd" : "118628232",
+      "Bezugsobjekt" : [ "Foto10 "," Foto11"]
+    },
+    {
+      "Nr." : "Empf28",
+      "Empfänger" : "Wisser, Wilhelm",
+       "gnd" : "117413356",
+      "Bezugsobjekt" : [ "Foto8"]
+    }
+  ]
+}
